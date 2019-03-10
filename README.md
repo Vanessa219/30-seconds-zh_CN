@@ -8,6 +8,8 @@
 
 **英文原文请看 [https://github.com/30-seconds/30-seconds-of-interviews](https://github.com/30-seconds/30-seconds-of-interviews)**
 
+若有翻译不恰当请给我们反馈，非常感谢 :heart:
+
 ### HTML 
 
 * [图片标签中的 alt 有什么作用？](https://hacpai.com/article/1544800582516)
