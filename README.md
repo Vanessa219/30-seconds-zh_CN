@@ -1,4 +1,4 @@
-<a href="https://30secondsofinterviews.org"><img src="logo.jpg" alt="30 Seconds of Interviews logo"></a>
+<a href="https://hacpai.com/tag/30seconds"><img src="https://raw.githubusercontent.com/30-seconds/30-seconds-of-interviews/master/logo.jpg" alt="30 Seconds of Interviews logo"></a>
 
 <h1 align="center">
   前端面试 30 秒系列
