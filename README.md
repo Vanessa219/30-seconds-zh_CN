@@ -49,10 +49,6 @@
 * [CORS 是什么？](https://hacpai.com/article/1547264310096)
 * [介绍事件委托及其优点，并说明如何使用？](https://hacpai.com/article/1547388674563)
 * [JavaScript 的表达式和语句有什么区别？](https://hacpai.com/article/1547453774159)
-
-<details>
-<summary>其余 40 个常见问题</summary>
-
 * [JavaScript 中的真值和假值是什么？](https://hacpai.com/article/1547531144079)
 * [生成一个包含 n 项的斐波那契数列](https://hacpai.com/article/1547629604141)
 * [`0.1 + 0.2 === 0.3` 的计算结果是什么？](https://hacpai.com/article/1547786948595)
@@ -92,7 +88,6 @@
 * [React, Vue, Angular, Hyperapp 等 JavaScript UI 库或框架的目的是什么？](https://hacpai.com/article/1550846527468)
 * [`use strict` 的作用](https://hacpai.com/article/1550891475480)
 * [虚拟 DOM 是什么，库或者框架中为什么要使用他？](https://hacpai.com/article/1550980580727)
-</details>
 
 ### React
 
