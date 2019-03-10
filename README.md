@@ -8,7 +8,7 @@
 
 **英文原文请看 [https://github.com/30-seconds/30-seconds-of-interviews](https://github.com/30-seconds/30-seconds-of-interviews)**
 
-若有翻译不恰当请给我们反馈，非常感谢 :heart:
+若有翻译不恰当之处请向我们反馈，非常感谢 :heart:
 
 ### HTML 
 
