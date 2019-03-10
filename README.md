@@ -74,7 +74,7 @@
 * [typeof](https://hacpai.com/article/1549426978334)
 * [什么是 JavaScript 数据类型？](https://hacpai.com/article/1549630646588)
 * [`var`、`let`、`const` 和没有关键字的声明有什么区别？](https://hacpai.com/article/1549635108016)
-* [什么是大 0 符号？](https://hacpai.com/article/1549713468969)
+* [什么是大 O 符号？](https://hacpai.com/article/1549713468969)
 * [什么是闭包？请给出一个有用的示例](https://hacpai.com/article/1549778763050)
 * [什么是事件驱动编程？](https://hacpai.com/article/1549942206210)
 * [什么是函数式编程？](https://hacpai.com/article/1549950785958)
