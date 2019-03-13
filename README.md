@@ -111,6 +111,7 @@
 * [React 中的 context 是什么？](https://hacpai.com/article/1552217095007)
 * [什么是 React 中的错误边界？](https://hacpai.com/article/1552280643852)
 * [fragments 是什么？](https://hacpai.com/article/1552361409524)
+* [什么是高阶组件？](https://hacpai.com/article/1552450398648)
 * ...
 
 ### Node
