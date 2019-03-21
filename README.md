@@ -121,7 +121,8 @@
 
 * [NodeJS 回调的错误处理方式及其优点](https://hacpai.com/article/1552875246782)
 * [什么是 REST？](https://hacpai.com/article/1552958044343)
-* ...
+* [如何避免地狱回调？](https://hacpai.com/article/1553145263366?r=Vanessa)
+* [什么是 Node.js 中的事件循环？](https://hacpai.com/article/1553156014524?r=Vanessa)
 
 ### Security
 
