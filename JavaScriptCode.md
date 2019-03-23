@@ -8,13 +8,13 @@
 
 <h4 align="center">精选的常见代码集，帮助您高效的编写。</h4>
 
-**英文原文请看 [30 seconds of code](https://30secondsofcode.org/)**
+**英文原文请看 [30 seconds of code](https://github.com/30-seconds/30-seconds-of-code)**
 
 若有翻译不恰当之处请向我们反馈，非常感谢 :heart:
 
 ### Adapter
 
-* ary
+* [ary](https://hacpai.com/article/1553322866329?r=Vanessa)
 * call
 * collectInfo
 * ...
@@ -70,7 +70,3 @@
 ### 返回总目录
 
 [每天 30 秒面试系](https://github.com/b3log/30-seconds-of-interviews-zh_CN)
-
-参考：
-
-* [30 seconds of code](https://30secondsofcode.org/)
