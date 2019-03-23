@@ -1,3 +1,5 @@
+<a href="https://hacpai.com/tag/30seconds"><img src="https://30secondsofcode.org/logos/logo_256.png" alt="30 Seconds of JavaScript Code logo"></a>
+
 <h1 align="center">
   30 秒系列之 JavaScript Code
 </h1>
