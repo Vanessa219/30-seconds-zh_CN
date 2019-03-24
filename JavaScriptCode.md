@@ -15,7 +15,7 @@
 ### Adapter
 
 * [ary](https://hacpai.com/article/1553322866329?r=Vanessa)
-* call
+* [call](https://hacpai.com/article/1553434314516?r=Vanessa)
 * collectInfo
 * ...
 
