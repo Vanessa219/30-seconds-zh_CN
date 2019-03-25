@@ -16,7 +16,7 @@
 
 * [ary](https://hacpai.com/article/1553322866329?r=Vanessa)
 * [call](https://hacpai.com/article/1553434314516?r=Vanessa)
-* collectInfo
+* [collectInfo](https://hacpai.com/article/1553477818016?r=Vanessa)
 * ...
 
 ### Array
