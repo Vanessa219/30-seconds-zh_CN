@@ -73,4 +73,4 @@
 
 ### 返回总目录
 
-[每天 30 秒面试系](https://github.com/b3log/30-seconds-of-interviews-zh_CN)
+[每天 30 秒系列](https://github.com/b3log/30-seconds-zh_CN)
