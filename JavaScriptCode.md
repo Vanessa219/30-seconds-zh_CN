@@ -20,6 +20,7 @@
 * [flip](https://hacpai.com/article/1553565894558?r=Vanessa)
 * [over](https://hacpai.com/article/1553647055521?r=Vanessa)
 * [overArgs](https://hacpai.com/article/1553736804241?r=Vanessa)
+* [pipeAsyncFunctions](https://hacpai.com/article/1553825641797?r=Vanessa)
 * ...
 
 ### Array
