@@ -22,6 +22,8 @@
 * [overArgs](https://hacpai.com/article/1553736804241?r=Vanessa)
 * [pipeAsyncFunctions](https://hacpai.com/article/1553825641797?r=Vanessa)
 * [pipeFunctions](https://hacpai.com/article/1553934688713?r=Vanessa)
+* [promisify](https://hacpai.com/article/1554082828739?r=Vanessa)
+* [rearg](https://hacpai.com/article/1554084477448?r=Vanessa)
 * ...
 
 ### Array
