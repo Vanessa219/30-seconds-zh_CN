@@ -24,6 +24,7 @@
 * [pipeFunctions](https://hacpai.com/article/1553934688713?r=Vanessa)
 * [promisify](https://hacpai.com/article/1554082828739?r=Vanessa)
 * [rearg](https://hacpai.com/article/1554084477448?r=Vanessa)
+* [spreadOver](https://hacpai.com/article/1554163964363?r=Vanessa)
 * ...
 
 ### Array
