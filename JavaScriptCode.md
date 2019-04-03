@@ -25,7 +25,7 @@
 * [promisify](https://hacpai.com/article/1554082828739?r=Vanessa)
 * [rearg](https://hacpai.com/article/1554084477448?r=Vanessa)
 * [spreadOver](https://hacpai.com/article/1554163964363?r=Vanessa)
-* ...
+* [unary](https://hacpai.com/article/1554250275633?r=Vanessa)
 
 ### Array
 
