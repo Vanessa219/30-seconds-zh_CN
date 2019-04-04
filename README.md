@@ -1,10 +1,8 @@
 <h1 align="center">
   每天 30 秒系列   <a title="Hits" target="_blank" href="http://hits.dwyl.io/b3log/30-seconds-zh_CN"><img src="http://hits.dwyl.io/b3log/30-seconds-zh_CN.svg"></a>
-  
-  <h4 align="center">
-    精选的常见前端问题集，帮助您踏踏实实走好每一步。
-  </h4>
 </h1>
+<p align="center">精选的常见前端问题集，帮助您踏踏实实走好每一步。</p>
+<br><br><br>
 
 ## [前端面试](https://github.com/b3log/30-seconds-of-interviews-zh_CN/blob/master/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95.md)
 
