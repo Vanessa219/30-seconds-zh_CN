@@ -144,6 +144,8 @@
 ### Array
 
 * [all](https://hacpai.com/article/1554338745768?r=Vanessa)
+* [allEqual](https://hacpai.com/article/1554514785576?r=Vanessa)
+* [any](https://hacpai.com/article/1554516319199?r=Vanessa)
 * ...
 
 ### Browser
