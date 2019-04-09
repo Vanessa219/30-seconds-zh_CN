@@ -147,6 +147,8 @@
 * [allEqual](https://hacpai.com/article/1554514785576?r=Vanessa)
 * [any](https://hacpai.com/article/1554516319199?r=Vanessa)
 * [arrayToCSV](https://hacpai.com/article/1554601365527?r=Vanessa)
+* [bifurcate](https://hacpai.com/article/1554808695791?r=Vanessa)
+* [bifurcateBy](https://hacpai.com/article/1554809838944?r=Vanessa)
 * ...
 
 ### Browser
