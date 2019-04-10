@@ -149,6 +149,7 @@
 * [arrayToCSV](https://hacpai.com/article/1554601365527?r=Vanessa)
 * [bifurcate](https://hacpai.com/article/1554808695791?r=Vanessa)
 * [bifurcateBy](https://hacpai.com/article/1554809838944?r=Vanessa)
+* [chunk](https://hacpai.com/article/1554884475181?r=Vanessa)
 * ...
 
 ### Browser
