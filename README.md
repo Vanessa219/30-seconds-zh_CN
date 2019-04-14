@@ -153,6 +153,7 @@
 * [compact](https://hacpai.com/article/1554941205487?r=Vanessa)
 * [countBy](https://hacpai.com/article/1555031955692?r=Vanessa)
 * [countOccurrences](https://hacpai.com/article/1555115865519?r=Vanessa)
+* [deepFlatten](https://hacpai.com/article/1555211715493?r=Vanessa)
 * ...
 
 ### Browser
