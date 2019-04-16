@@ -1,5 +1,5 @@
 <h1 align="center">
-  每天 30 秒系列   <a title="Hits" target="_blank" href="http://hits.dwyl.io/b3log/30-seconds-zh_CN"><img src="http://hits.dwyl.io/b3log/30-seconds-zh_CN.svg"></a>
+  每天 30 秒系列   <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a>
 </h1>
 <p align="center">精选的常见前端问题集，帮助您踏踏实实走好每一步。</p>
 <br><br><br>
