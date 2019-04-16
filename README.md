@@ -155,6 +155,7 @@
 * [countOccurrences](https://hacpai.com/article/1555115865519?r=Vanessa)
 * [deepFlatten](https://hacpai.com/article/1555211715493?r=Vanessa)
 * [difference](https://hacpai.com/article/1555288006577?r=Vanessa)
+* [differenceBy](https://hacpai.com/article/1555409565472?r=Vanessa)
 * ...
 
 ### Browser
