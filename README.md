@@ -158,6 +158,7 @@
 * [differenceBy](https://hacpai.com/article/1555409565472?r=Vanessa)
 * [differenceWith](https://hacpai.com/article/1555481655934?r=Vanessa)
 * [drop](https://hacpai.com/article/1555570155475?r=Vanessa)
+* [dropRight](https://hacpai.com/article/1555649775702?r=Vanessa)
 * ...
 
 ### Browser
