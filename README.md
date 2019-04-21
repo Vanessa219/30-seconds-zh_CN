@@ -160,6 +160,7 @@
 * [drop](https://hacpai.com/article/1555570155475?r=Vanessa)
 * [dropRight](https://hacpai.com/article/1555649775702?r=Vanessa)
 * [dropRightWhile](https://hacpai.com/article/1555737796883?r=Vanessa)
+* [dropWhile](https://hacpai.com/article/1555813155509?r=Vanessa)
 * ...
 
 ### Browser
