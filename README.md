@@ -161,6 +161,7 @@
 * [dropRight](https://hacpai.com/article/1555649775702?r=Vanessa)
 * [dropRightWhile](https://hacpai.com/article/1555737796883?r=Vanessa)
 * [dropWhile](https://hacpai.com/article/1555813155509?r=Vanessa)
+* [everyNth](https://hacpai.com/article/1555892445505?r=Vanessa)
 * ...
 
 ### Browser
