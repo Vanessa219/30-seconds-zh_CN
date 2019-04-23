@@ -13,12 +13,17 @@
 * [HTML 中可以包含多个 `<header>` 或者 `<footer>` 元素吗？](https://hacpai.com/article/1544932228390?r=Vanessa)
 * [简单描述 HTML5 语义元素中 `<header>`、`<article>`、`<section>`、`<footer>` 的正确用法](https://hacpai.com/article/1544977054016?r=Vanessa)
 * [简述 `<script>` 标签中的 defer 和 async 属性](https://hacpai.com/article/1545093175137?r=Vanessa)
+
+<details>
+<summary>更多</summary>  
+  
 * [什么是 DOM？](https://hacpai.com/article/1545181009513?r=Vanessa)
 * [HTML 规范和浏览器实现存在什么区别？](https://hacpai.com/article/1545263006178?r=Vanessa)
 * [XHTML 和 HTML 有什么不同?](https://hacpai.com/article/1545450308820?r=Vanessa)
 * [`rel="noopener"` 应在什么场景下使用，为什么？](https://hacpai.com/article/1545535924073?r=Vanessa)
 * [什么是 HTML5 存储？解释一下 `localStorage` 和 `sessionStorage`](https://hacpai.com/article/1545614869150?r=Vanessa)
 * [解释 MIME type 及其作用](https://hacpai.com/article/1548381047741?r=Vanessa)
+</details>
 
 
 ### CSS
@@ -28,11 +33,15 @@
 * [使用 flexbox，创建一个 3 列布局，其中每列占据容器的 col-{n} / 12 比率](https://hacpai.com/article/1545875909329?r=Vanessa)
 * [简述一下 `@media` 的媒体类型](https://hacpai.com/article/1545961060623?r=Vanessa)
 * [描述 CSS 盒子模型布局并简要描述其每一个部分](https://hacpai.com/article/1546051999340?r=Vanessa)
+<details>
+<summary>更多</summary>  
+  
 * [focus 有什么效果？应该怎么正确处理他们？](https://hacpai.com/article/1546188532029?r=Vanessa)
 * [`em` 和 `rem` 有什么区别？](https://hacpai.com/article/1546234490137?r=Vanessa)
 * [CSS sprites 的优点及如何使用？](https://hacpai.com/article/1546350675686?r=Vanessa)
 * [`+` 和 `~` 选择器有什么区别？](https://hacpai.com/article/1546396257706?r=Vanessa)
 * [CSS 优先级是如何计算的？](https://hacpai.com/article/1546528225489?r=Vanessa)
+</details>
 
 ### JavaScript
 
@@ -41,6 +50,10 @@
 * [`Promise` 有哪些状态？](https://hacpai.com/article/1546828434083?r=Vanessa)
 * [根据食谱和已有食材计算可烹饪的最大次数](https://hacpai.com/article/1546833887125?r=Vanessa)
 * [实现一个功能和 `Function.prototype.bind` 相同的函数](https://hacpai.com/article/1546958569887?r=Vanessa)
+
+<details>
+<summary>更多</summary>  
+  
 * [请举例说明什么是回调？](https://hacpai.com/article/1546997933203?r=Vanessa)
 * [如何克隆一个 JavaScript 对象？](https://hacpai.com/article/1547084179300?r=Vanessa)
 * [JavaScript 中如何对比两个对象？](https://hacpai.com/article/1547218337208?r=Vanessa)
@@ -87,6 +100,8 @@
 * [`use strict` 的作用](https://hacpai.com/article/1550891475480?r=Vanessa)
 * [虚拟 DOM 是什么，库或者框架中为什么要使用他？](https://hacpai.com/article/1550980580727?r=Vanessa)
 
+</details>
+
 ### React
 
 * [什么是内联条件表达式？](https://hacpai.com/article/1548166592192?r=Vanessa)
@@ -94,6 +109,10 @@
 * [React 中的元素和组件有什么不同？](https://hacpai.com/article/1551068452927?r=Vanessa)
 * [状态提升在 React 中的作用](https://hacpai.com/article/1551143997511?r=Vanessa)
 * [React 中如何在 JSX 树中写注释](https://hacpai.com/article/1551338654162?r=Vanessa)
+
+<details>
+<summary>更多</summary>  
+  
 * [React 中什么是有状态的组件？](https://hacpai.com/article/1551341100994?r=Vanessa)
 * [什么是无状态组件](https://hacpai.com/article/1551493941292?r=Vanessa)
 * [`setState` 使用回调函数作为参数的目的是什么？](https://hacpai.com/article/1551503647758?r=Vanessa)
@@ -112,6 +131,8 @@
 * [React 中的 portals 是什么？](https://hacpai.com/article/1552611002890?r=Vanessa)
 * [React 中如何使用 prop 检查？](https://hacpai.com/article/1552703646797?r=Vanessa)
 * [介绍 React 中的 Refs 及其使用场景？](https://hacpai.com/article/1552798811035?r=Vanessa)
+
+</details>
 
 ### Node
 
@@ -133,6 +154,10 @@
 * [collectInfo](https://hacpai.com/article/1553477818016?r=Vanessa)
 * [flip](https://hacpai.com/article/1553565894558?r=Vanessa)
 * [over](https://hacpai.com/article/1553647055521?r=Vanessa)
+
+<details>
+<summary>更多</summary>  
+  
 * [overArgs](https://hacpai.com/article/1553736804241?r=Vanessa)
 * [pipeAsyncFunctions](https://hacpai.com/article/1553825641797?r=Vanessa)
 * [pipeFunctions](https://hacpai.com/article/1553934688713?r=Vanessa)
@@ -140,6 +165,8 @@
 * [rearg](https://hacpai.com/article/1554084477448?r=Vanessa)
 * [spreadOver](https://hacpai.com/article/1554163964363?r=Vanessa)
 * [unary](https://hacpai.com/article/1554250275633?r=Vanessa)
+
+</details>
 
 ### Array
 
@@ -162,6 +189,7 @@
 * [dropRightWhile](https://hacpai.com/article/1555737796883?r=Vanessa)
 * [dropWhile](https://hacpai.com/article/1555813155509?r=Vanessa)
 * [everyNth](https://hacpai.com/article/1555892445505?r=Vanessa)
+* [filterFalsy](https://hacpai.com/article/1555984725509?r=Vanessa)
 * ...
 
 ### Browser
