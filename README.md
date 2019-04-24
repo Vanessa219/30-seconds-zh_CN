@@ -190,6 +190,7 @@
 * [dropWhile](https://hacpai.com/article/1555813155509?r=Vanessa)
 * [everyNth](https://hacpai.com/article/1555892445505?r=Vanessa)
 * [filterFalsy](https://hacpai.com/article/1555984725509?r=Vanessa)
+* [filterNonUnique](https://hacpai.com/article/1556069986745?r=Vanessa)
 * ...
 
 ### Browser
