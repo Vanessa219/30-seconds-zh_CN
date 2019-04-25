@@ -191,6 +191,7 @@
 * [everyNth](https://hacpai.com/article/1555892445505?r=Vanessa)
 * [filterFalsy](https://hacpai.com/article/1555984725509?r=Vanessa)
 * [filterNonUnique](https://hacpai.com/article/1556069986745?r=Vanessa)
+* [filterNonUniqueBy](https://hacpai.com/article/1556154346336?r=Vanessa)
 * ...
 
 ### Browser
