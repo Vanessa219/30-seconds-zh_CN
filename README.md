@@ -193,6 +193,7 @@
 * [filterNonUnique](https://hacpai.com/article/1556069986745?r=Vanessa)
 * [filterNonUniqueBy](https://hacpai.com/article/1556154346336?r=Vanessa)
 * [findLast](https://hacpai.com/article/1556236076385?r=Vanessa)
+* [findLastIndex](https://hacpai.com/article/1556327613111?r=Vanessa)
 * ...
 
 ### Browser
