@@ -197,6 +197,7 @@
 * [flatten](https://hacpai.com/article/1556412242929?r=Vanessa)
 * [forEachRight](https://hacpai.com/article/1556501493170?r=Vanessa)
 * [groupBy](https://hacpai.com/article/1556588645536?r=Vanessa)
+* [head](https://hacpai.com/article/1556713386041?r=Vanessa)
 * ...
 
 ### Browser
