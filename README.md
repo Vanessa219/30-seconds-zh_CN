@@ -201,6 +201,7 @@
 * [indexOfAll](https://hacpai.com/article/1556783795602?r=Vanessa)
 * [initial](https://hacpai.com/article/1556885855772?r=Vanessa)
 * [initialize2DArray](https://hacpai.com/article/1556954406368?r=Vanessa)
+* [initializeArrayWithRange](https://hacpai.com/article/1557020466954?r=Vanessa)
 * ...
 
 ### Browser
