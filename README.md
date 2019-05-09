@@ -20,7 +20,7 @@
 <br><br><br>
 
 <p align="center">
-<a href="https://hacpai.com/article/1553314676872?r=Vanessa"><img src="https://raw.githubusercontent.com/30-seconds/30-seconds-of-interviews/master/logo.jpg" alt="每天 30 秒系列之前端面试"></a>
+<a href="https://hacpai.com/article/1544793046274?r=Vanessa"><img src="https://raw.githubusercontent.com/30-seconds/30-seconds-of-interviews/master/logo.jpg" alt="每天 30 秒系列之前端面试"></a>
 </p>
 <h2 align="center">每天 30 秒系列之前端面试</h1>
 <h4 align="center">精选常见面试题，帮助您准备下一次面试</h4>
