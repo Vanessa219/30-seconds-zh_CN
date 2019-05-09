@@ -1,22 +1,34 @@
-<h1 align="center">
-  每天 30 秒系列   <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a>
-</h1>
-<p align="center">精选的常见前端问题集，帮助您踏踏实实走好每一步。</p>
+<h1 align="center">每天 30 秒系列</h1>
+<h4 align="center">精选前端问题集，坚持每天 30 秒</h4>
+<br>
+<p align="center">
+  <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a>
+</p>
+
+## 背景
+
+...
+
+英文原文请看 [30 seconds](https://github.com/30-seconds)
+
+若有翻译不恰当之处请向我们反馈，非常感谢 :heart:
+
 <br><br><br>
 
-## [前端面试](https://github.com/b3log/30-seconds-of-interviews-zh_CN/blob/master/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95.md)
+<a href="https://hacpai.com/article/1553314676872?r=Vanessa"><img src="https://raw.githubusercontent.com/30-seconds/30-seconds-of-interviews/master/logo.jpg" alt="每天 30 秒系列之前端面试"></a>
+<h2 align="center">每天 30 秒系列之前端面试</h1>
+<h4 align="center">精选常见面试题，帮助您准备下一次面试</h4>
 
 ### HTML 
+
+<details>
+<summary>查看详情</summary>
 
 * [图片标签中的 alt 有什么作用？](https://hacpai.com/article/1544800582516?r=Vanessa)
 * [清缓存的目的是什么，如何实现？](https://hacpai.com/article/1544845023860?r=Vanessa)
 * [HTML 中可以包含多个 `<header>` 或者 `<footer>` 元素吗？](https://hacpai.com/article/1544932228390?r=Vanessa)
 * [简单描述 HTML5 语义元素中 `<header>`、`<article>`、`<section>`、`<footer>` 的正确用法](https://hacpai.com/article/1544977054016?r=Vanessa)
 * [简述 `<script>` 标签中的 defer 和 async 属性](https://hacpai.com/article/1545093175137?r=Vanessa)
-
-<details>
-<summary>更多</summary>  
-  
 * [什么是 DOM？](https://hacpai.com/article/1545181009513?r=Vanessa)
 * [HTML 规范和浏览器实现存在什么区别？](https://hacpai.com/article/1545263006178?r=Vanessa)
 * [XHTML 和 HTML 有什么不同?](https://hacpai.com/article/1545450308820?r=Vanessa)
@@ -28,14 +40,14 @@
 
 ### CSS
 
+<details>
+<summary>查看详情</summary>
+
 * [介绍一下 CSS 的 BEM](https://hacpai.com/article/1545707000031?r=Vanessa)
 * [CSS 预处理器有什么优势？](https://hacpai.com/article/1545789633753?r=Vanessa)
 * [使用 flexbox，创建一个 3 列布局，其中每列占据容器的 col-{n} / 12 比率](https://hacpai.com/article/1545875909329?r=Vanessa)
 * [简述一下 `@media` 的媒体类型](https://hacpai.com/article/1545961060623?r=Vanessa)
 * [描述 CSS 盒子模型布局并简要描述其每一个部分](https://hacpai.com/article/1546051999340?r=Vanessa)
-<details>
-<summary>更多</summary>  
-  
 * [focus 有什么效果？应该怎么正确处理他们？](https://hacpai.com/article/1546188532029?r=Vanessa)
 * [`em` 和 `rem` 有什么区别？](https://hacpai.com/article/1546234490137?r=Vanessa)
 * [CSS sprites 的优点及如何使用？](https://hacpai.com/article/1546350675686?r=Vanessa)
@@ -45,15 +57,14 @@
 
 ### JavaScript
 
+<details>
+<summary>查看详情</summary>
+
 * [等于操作符 `==` 和 `===` 有什么区别](https://hacpai.com/article/1546570870626?r=Vanessa)
 * [后置递增 `i++` 和前置递增 `++i` 操作有什么区别？](https://hacpai.com/article/1546665384680?r=Vanessa)
 * [`Promise` 有哪些状态？](https://hacpai.com/article/1546828434083?r=Vanessa)
 * [根据食谱和已有食材计算可烹饪的最大次数](https://hacpai.com/article/1546833887125?r=Vanessa)
 * [实现一个功能和 `Function.prototype.bind` 相同的函数](https://hacpai.com/article/1546958569887?r=Vanessa)
-
-<details>
-<summary>更多</summary>  
-  
 * [请举例说明什么是回调？](https://hacpai.com/article/1546997933203?r=Vanessa)
 * [如何克隆一个 JavaScript 对象？](https://hacpai.com/article/1547084179300?r=Vanessa)
 * [JavaScript 中如何对比两个对象？](https://hacpai.com/article/1547218337208?r=Vanessa)
@@ -104,15 +115,14 @@
 
 ### React
 
+<details>
+<summary>查看详情</summary>
+
 * [什么是内联条件表达式？](https://hacpai.com/article/1548166592192?r=Vanessa)
 * [React 和 HTML 的事件处理有什么不同？](https://hacpai.com/article/1545321971993?r=Vanessa)
 * [React 中的元素和组件有什么不同？](https://hacpai.com/article/1551068452927?r=Vanessa)
 * [状态提升在 React 中的作用](https://hacpai.com/article/1551143997511?r=Vanessa)
 * [React 中如何在 JSX 树中写注释](https://hacpai.com/article/1551338654162?r=Vanessa)
-
-<details>
-<summary>更多</summary>  
-  
 * [React 中什么是有状态的组件？](https://hacpai.com/article/1551341100994?r=Vanessa)
 * [什么是无状态组件](https://hacpai.com/article/1551493941292?r=Vanessa)
 * [`setState` 使用回调函数作为参数的目的是什么？](https://hacpai.com/article/1551503647758?r=Vanessa)
@@ -136,28 +146,43 @@
 
 ### Node
 
+<details>
+<summary>查看详情</summary>
+
 * [NodeJS 回调的错误处理方式及其优点](https://hacpai.com/article/1552875246782?r=Vanessa)
 * [什么是 REST？](https://hacpai.com/article/1552958044343?r=Vanessa)
 * [如何避免地狱回调？](https://hacpai.com/article/1553145263366?r=Vanessa)
 * [什么是 Node.js 中的事件循环？](https://hacpai.com/article/1553156014524?r=Vanessa)
 
+</details>
+
 ### Security
+
+<details>
+<summary>查看详情</summary>
 
 * [什么是跨站点脚本攻击（XSS）？应如何阻止他？](https://hacpai.com/article/1553313536893?r=Vanessa)
 
-## [JavaScript 代码](https://github.com/b3log/30-seconds-of-interviews-zh_CN/blob/master/JavaScriptCode.md)
+</details>
 
-### Adapter
+<br><br><br>
 
+<p align="center">
+<a href="https://hacpai.com/article/1553314584340?r=Vanessa"><img src="https://github.com/30-seconds/30-seconds-of-code/raw/master/logo.png" alt="每天 30 秒系列之 JavaScript Code"></a>
+</p>
+<h2 align="center">每天 30 秒系列之 JavaScript Code</h1>
+<h4 align="center">精选常见代码集，帮助您提高打码效率</h4>
+
+### 🔌 Adapter
+
+<details>
+<summary>查看详情</summary>
+  
 * [ary](https://hacpai.com/article/1553322866329?r=Vanessa)
 * [call](https://hacpai.com/article/1553434314516?r=Vanessa)
 * [collectInfo](https://hacpai.com/article/1553477818016?r=Vanessa)
 * [flip](https://hacpai.com/article/1553565894558?r=Vanessa)
 * [over](https://hacpai.com/article/1553647055521?r=Vanessa)
-
-<details>
-<summary>更多</summary>  
-  
 * [overArgs](https://hacpai.com/article/1553736804241?r=Vanessa)
 * [pipeAsyncFunctions](https://hacpai.com/article/1553825641797?r=Vanessa)
 * [pipeFunctions](https://hacpai.com/article/1553934688713?r=Vanessa)
@@ -168,8 +193,11 @@
 
 </details>
 
-### Array
+### 📚 Array
 
+<details>
+<summary>查看详情</summary>
+  
 * [all](https://hacpai.com/article/1554338745768?r=Vanessa)
 * [allEqual](https://hacpai.com/article/1554514785576?r=Vanessa)
 * [any](https://hacpai.com/article/1554516319199?r=Vanessa)
@@ -204,59 +232,98 @@
 * [initializeArrayWithRange](https://hacpai.com/article/1557020466954?r=Vanessa)
 * [initializeArrayWithRangeRight](https://hacpai.com/article/1557110008353?r=Vanessa)
 * [initializeArrayWithValues](https://hacpai.com/article/1557189147260?r=Vanessa)
-* ...
+* TODO
 
-### Browser
+</details>
 
-* ...
+### 🌐 Browser
 
-### Date
+TODO
 
-* ...
+### ⏱️ Date
 
-### Function
+TODO
 
-* ...
+### 🎛️ Function
 
-### Math
+TODO
 
-* ...
+### ➗ Math
 
-### Node
+TODO
 
-* ...
+### 📦 Node
+
+TODO
+
+### 🗃️ Object
+
+TODO
+
+### 📜 String
+
+TODO
+
+### 📃 Type
+
+TODO
+
+### 🔧 Utility
+
+TODO
+
+<br><br><br>
+
+<p align="center">
+<img src="https://camo.githubusercontent.com/f746b4f3f7a3c82c18fe74225f3dc191af0a818f/68747470733a2f2f692e696d6775722e636f6d2f6b504d667944342e6a7067" alt="每天 30 秒系列之 CSS">
+</p>
+<h2 align="center">每天 30 秒系列之 CSS</h1>
+<h4 align="center">精选常见交互，帮助您拥有简洁酷炫的站点</h4>
+
+### 布局
+
+TODO
+
+### 视觉
+
+TODO
+
+### 动画
+
+TODO
+
+### 交互
+
+TODO
+
+### 其他
+
+TODO
+
+<br><br><br>
+
+<p align="center">
+<img src="https://github.com/30-seconds/30-seconds-of-react/raw/master/logo.png" alt="每天 30 秒系列之 React">
+</p>
+<h2 align="center">每天 30 秒系列之 React</h1>
+<h4 align="center">精选常见 React，帮助您高效的编写</h4>
+
+### Array
+
+TODO
+
+### Input
+
+TODO
 
 ### Object
 
-* ...
+TODO
 
 ### String
 
-* ...
+TODO
 
-### Type
+### Visual
 
-* ...
-
-### Utility
-
-* ...
-
-### Others
-
-* ...
-
-### 词典表
-
-* ...
-
-
-## CSS
-
-* 布局
-* 视觉
-* 动画
-* 交互
-* 其他
-
-## React
+TODO
