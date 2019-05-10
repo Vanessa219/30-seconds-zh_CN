@@ -240,6 +240,7 @@
 * [initializeArrayWithValues](https://hacpai.com/article/1557189147260?r=Vanessa)
 * [Array - initializeNDArray](https://hacpai.com/article/1557368476575?r=Vanessa)
 * [Array - intersection](https://hacpai.com/article/1557368805564?r=Vanessa)
+* [Array - intersectionBy](https://hacpai.com/article/1557451035643?r=Vanessa)
 * TODO
 
 </details>
