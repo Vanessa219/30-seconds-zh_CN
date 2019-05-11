@@ -241,6 +241,7 @@
 * [initializeNDArray](https://hacpai.com/article/1557368476575?r=Vanessa)
 * [intersection](https://hacpai.com/article/1557368805564?r=Vanessa)
 * [intersectionBy](https://hacpai.com/article/1557451035643?r=Vanessa)
+* [intersectionWith](https://hacpai.com/article/1557539146478?r=Vanessa)
 * TODO
 
 </details>
