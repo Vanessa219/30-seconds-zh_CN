@@ -243,6 +243,7 @@
 * [intersectionBy](https://hacpai.com/article/1557451035643?r=Vanessa)
 * [intersectionWith](https://hacpai.com/article/1557539146478?r=Vanessa)
 * [isSorted](https://hacpai.com/article/1557635626337?r=Vanessa)
+* [join](https://hacpai.com/article/1557711735980?r=Vanessa)
 * TODO
 
 </details>
