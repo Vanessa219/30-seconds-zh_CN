@@ -244,6 +244,9 @@
 * [intersectionWith](https://hacpai.com/article/1557539146478?r=Vanessa)
 * [isSorted](https://hacpai.com/article/1557635626337?r=Vanessa)
 * [join](https://hacpai.com/article/1557711735980?r=Vanessa)
+* [JSONtoCSV ](https://hacpai.com/article/1557969765906?r=Vanessa)<sup>advanced</sup>
+* [last](https://hacpai.com/article/1557971680888?r=Vanessa)
+* [longestItem](https://hacpai.com/article/1557970395696?r=Vanessa)
 * TODO
 
 </details>
