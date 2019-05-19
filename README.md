@@ -249,6 +249,7 @@
 * [longestItem](https://hacpai.com/article/1557970395696?r=Vanessa)
 * [mapObject](https://hacpai.com/article/1558082057214?r=Vanessa) <sup>advanced</sup>
 * [maxN](https://hacpai.com/article/1558145686364?r=Vanessa)
+* [minN](https://hacpai.com/article/1558257558982?r=Vanessa)
 * TODO
 
 </details>
