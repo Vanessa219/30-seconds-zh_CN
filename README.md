@@ -252,6 +252,7 @@
 * [minN](https://hacpai.com/article/1558257558982?r=Vanessa)
 * [none](https://hacpai.com/article/1558314285757?r=Vanessa)
 * [nthElement](https://hacpai.com/article/1558405425947?r=Vanessa)
+* [offset](https://hacpai.com/article/1558493775739?r=Vanessa)
 * TODO
 
 </details>
