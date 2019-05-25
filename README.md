@@ -255,6 +255,7 @@
 * [offset](https://hacpai.com/article/1558493775739?r=Vanessa)
 * [partition](https://hacpai.com/article/1558605616501?r=Vanessa)
 * [permutations](https://hacpai.com/article/1558663216200?r=Vanessa) <sup>advanced</sup>
+* [pull](https://hacpai.com/article/1558755312367?r=Vanessa)
 * TODO
 
 </details>
