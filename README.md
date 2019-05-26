@@ -256,6 +256,7 @@
 * [partition](https://hacpai.com/article/1558605616501?r=Vanessa)
 * [permutations](https://hacpai.com/article/1558663216200?r=Vanessa) <sup>advanced</sup>
 * [pull](https://hacpai.com/article/1558755312367?r=Vanessa)
+* [pullAtIndex](https://hacpai.com/article/1558839522334?r=Vanessa) <sup>advanced</sup>
 * TODO
 
 </details>
