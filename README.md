@@ -257,6 +257,8 @@
 * [permutations](https://hacpai.com/article/1558663216200?r=Vanessa) <sup>advanced</sup>
 * [pull](https://hacpai.com/article/1558755312367?r=Vanessa)
 * [pullAtIndex](https://hacpai.com/article/1558839522334?r=Vanessa) <sup>advanced</sup>
+* [pullAtValue](https://hacpai.com/article/1559033951959?r=Vanessa) <sup>advanced</sup>
+* [pullBy](https://hacpai.com/article/1559038031885?r=Vanessa) <sup>advanced</sup>
 * TODO
 
 </details>
