@@ -259,6 +259,8 @@
 * [pullAtIndex](https://hacpai.com/article/1558839522334?r=Vanessa) <sup>advanced</sup>
 * [pullAtValue](https://hacpai.com/article/1559033951959?r=Vanessa) <sup>advanced</sup>
 * [pullBy](https://hacpai.com/article/1559038031885?r=Vanessa) <sup>advanced</sup>
+* [reducedFilter](https://hacpai.com/article/1559185752392?r=Vanessa) 
+* [reduceSuccessive](https://hacpai.com/article/1559190252243?r=Vanessa) 
 * TODO
 
 </details>
