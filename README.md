@@ -261,6 +261,7 @@
 * [pullBy](https://hacpai.com/article/1559038031885?r=Vanessa) <sup>advanced</sup>
 * [reducedFilter](https://hacpai.com/article/1559185752392?r=Vanessa) 
 * [reduceSuccessive](https://hacpai.com/article/1559190252243?r=Vanessa) 
+* [reduceWhich](https://hacpai.com/article/1559310074860?r=Vanessa) 
 * TODO
 
 </details>
