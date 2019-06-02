@@ -263,6 +263,7 @@
 * [reduceSuccessive](https://hacpai.com/article/1559190252243?r=Vanessa) 
 * [reduceWhich](https://hacpai.com/article/1559310074860?r=Vanessa) 
 * [reject](https://hacpai.com/article/1559392814505?r=Vanessa) 
+* [remove](https://hacpai.com/article/1559449603194?r=Vanessa) 
 * TODO
 
 </details>
