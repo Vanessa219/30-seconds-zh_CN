@@ -264,6 +264,7 @@
 * [reduceWhich](https://hacpai.com/article/1559310074860?r=Vanessa) 
 * [reject](https://hacpai.com/article/1559392814505?r=Vanessa) 
 * [remove](https://hacpai.com/article/1559449603194?r=Vanessa) 
+* [sample](https://hacpai.com/article/1559520792626?r=Vanessa) 
 * TODO
 
 </details>
