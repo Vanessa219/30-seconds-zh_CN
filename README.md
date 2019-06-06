@@ -266,6 +266,8 @@
 * [remove](https://hacpai.com/article/1559449603194?r=Vanessa) 
 * [sample](https://hacpai.com/article/1559520792626?r=Vanessa) 
 * [sampleSize](https://hacpai.com/article/1559618532222?r=Vanessa) 
+* [shank](https://hacpai.com/article/1559788811963?r=Vanessa) 
+* [shuffle](https://hacpai.com/article/1559789794606?r=Vanessa) 
 * TODO
 
 </details>
