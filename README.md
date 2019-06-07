@@ -268,6 +268,7 @@
 * [sampleSize](https://hacpai.com/article/1559618532222?r=Vanessa) 
 * [shank](https://hacpai.com/article/1559788811963?r=Vanessa) 
 * [shuffle](https://hacpai.com/article/1559789794606?r=Vanessa) 
+* [similarity](https://hacpai.com/article/1559916822683?r=Vanessa) 
 * TODO
 
 </details>
