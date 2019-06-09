@@ -270,6 +270,7 @@
 * [shuffle](https://hacpai.com/article/1559789794606?r=Vanessa) 
 * [similarity](https://hacpai.com/article/1559916822683?r=Vanessa) 
 * [sortedIndex](https://hacpai.com/article/1559960922066?r=Vanessa) 
+* [sortedIndexBy](https://hacpai.com/article/1560091882829?r=Vanessa) 
 * TODO
 
 </details>
