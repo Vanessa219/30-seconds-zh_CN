@@ -1,12 +1,12 @@
 <p align="center">
-<a href="https://hacpai.com/article/1553314676872?r=Vanessa"><img src="https://user-images.githubusercontent.com/970828/57420814-d1341880-723b-11e9-9433-ac2cb204d7c3.jpg" alt="每天 30 秒系列"></a>
+    <a href="https://hacpai.com/article/1553314676872?r=Vanessa"><img src="https://user-images.githubusercontent.com/970828/57420814-d1341880-723b-11e9-9433-ac2cb204d7c3.jpg" alt="每天 30 秒系列"></a>
 </p>
 
 <h1 align="center">每天 30 秒系列</h1>
 <h4 align="center">精选前端问题集，坚持每天 30 秒</h4>
 <br>
 <p align="center">
-  <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a>
+    <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a>
 </p>
 
 ## 背景
@@ -20,18 +20,19 @@
 <br><br><br>
 
 <p align="center">
-<a href="https://hacpai.com/article/1544793046274?r=Vanessa"><img src="https://raw.githubusercontent.com/30-seconds/30-seconds-of-interviews/master/logo.jpg" alt="每天 30 秒系列之前端面试"></a>
+    <a href="https://hacpai.com/article/1544793046274?r=Vanessa"><img src="https://raw.githubusercontent.com/30-seconds/30-seconds-of-interviews/master/logo.jpg" alt="每天 30 秒系列之前端面试"></a>
 </p>
-<h2 align="center">每天 30 秒系列之前端面试</h1>
+<h2 align="center">每天 30 秒系列之前端面试</h2>
 <h4 align="center">精选常见面试题，帮助您准备下一次面试</h4>
 
-### HTML 
-
-<details>
-<summary>查看详情</summary>
+### HTML
 
 * [图片标签中的 alt 有什么作用？](https://hacpai.com/article/1544800582516?r=Vanessa)
 * [清缓存的目的是什么，如何实现？](https://hacpai.com/article/1544845023860?r=Vanessa)
+
+<details>
+<summary>查看更多</summary>
+
 * [HTML 中可以包含多个 `<header>` 或者 `<footer>` 元素吗？](https://hacpai.com/article/1544932228390?r=Vanessa)
 * [简单描述 HTML5 语义元素中 `<header>`、`<article>`、`<section>`、`<footer>` 的正确用法](https://hacpai.com/article/1544977054016?r=Vanessa)
 * [简述 `<script>` 标签中的 defer 和 async 属性](https://hacpai.com/article/1545093175137?r=Vanessa)
@@ -46,11 +47,12 @@
 
 ### CSS
 
-<details>
-<summary>查看详情</summary>
-
 * [介绍一下 CSS 的 BEM](https://hacpai.com/article/1545707000031?r=Vanessa)
 * [CSS 预处理器有什么优势？](https://hacpai.com/article/1545789633753?r=Vanessa)
+
+<details>
+<summary>查看更多</summary>
+
 * [使用 flexbox，创建一个 3 列布局，其中每列占据容器的 col-{n} / 12 比率](https://hacpai.com/article/1545875909329?r=Vanessa)
 * [简述一下 `@media` 的媒体类型](https://hacpai.com/article/1545961060623?r=Vanessa)
 * [描述 CSS 盒子模型布局并简要描述其每一个部分](https://hacpai.com/article/1546051999340?r=Vanessa)
@@ -63,11 +65,12 @@
 
 ### JavaScript
 
-<details>
-<summary>查看详情</summary>
+* [等于操作符 \`==\` 和 \`===\` 有什么区别](https://hacpai.com/article/1546570870626?r=Vanessa)
+* [后置递增 \`i++\` 和前置递增 \`++i\` 操作有什么区别？](https://hacpai.com/article/1546665384680?r=Vanessa)
 
-* [等于操作符 `==` 和 `===` 有什么区别](https://hacpai.com/article/1546570870626?r=Vanessa)
-* [后置递增 `i++` 和前置递增 `++i` 操作有什么区别？](https://hacpai.com/article/1546665384680?r=Vanessa)
+<details>
+<summary>查看更多</summary>
+
 * [`Promise` 有哪些状态？](https://hacpai.com/article/1546828434083?r=Vanessa)
 * [根据食谱和已有食材计算可烹饪的最大次数](https://hacpai.com/article/1546833887125?r=Vanessa)
 * [实现一个功能和 `Function.prototype.bind` 相同的函数](https://hacpai.com/article/1546958569887?r=Vanessa)
@@ -121,11 +124,12 @@
 
 ### React
 
-<details>
-<summary>查看详情</summary>
-
 * [什么是内联条件表达式？](https://hacpai.com/article/1548166592192?r=Vanessa)
 * [React 和 HTML 的事件处理有什么不同？](https://hacpai.com/article/1545321971993?r=Vanessa)
+
+<details>
+<summary>查看更多</summary>
+
 * [React 中的元素和组件有什么不同？](https://hacpai.com/article/1551068452927?r=Vanessa)
 * [状态提升在 React 中的作用](https://hacpai.com/article/1551143997511?r=Vanessa)
 * [React 中如何在 JSX 树中写注释](https://hacpai.com/article/1551338654162?r=Vanessa)
@@ -152,11 +156,12 @@
 
 ### Node
 
-<details>
-<summary>查看详情</summary>
-
 * [NodeJS 回调的错误处理方式及其优点](https://hacpai.com/article/1552875246782?r=Vanessa)
 * [什么是 REST？](https://hacpai.com/article/1552958044343?r=Vanessa)
+
+<details>
+<summary>查看更多</summary>
+
 * [如何避免地狱回调？](https://hacpai.com/article/1553145263366?r=Vanessa)
 * [什么是 Node.js 中的事件循环？](https://hacpai.com/article/1553156014524?r=Vanessa)
 
@@ -164,12 +169,8 @@
 
 ### Security
 
-<details>
-<summary>查看详情</summary>
-
 * [什么是跨站点脚本攻击（XSS）？应如何阻止他？](https://hacpai.com/article/1553313536893?r=Vanessa)
 
-</details>
 
 <br><br><br>
 
@@ -180,12 +181,13 @@
 <h4 align="center">精选常见代码集，帮助您提高打码效率</h4>
 
 ### 🔌 Adapter
-
-<details>
-<summary>查看详情</summary>
   
 * [ary](https://hacpai.com/article/1553322866329?r=Vanessa)
 * [call](https://hacpai.com/article/1553434314516?r=Vanessa)
+
+<details>
+<summary>查看更多</summary>
+
 * [collectInfo](https://hacpai.com/article/1553477818016?r=Vanessa)
 * [flip](https://hacpai.com/article/1553565894558?r=Vanessa)
 * [over](https://hacpai.com/article/1553647055521?r=Vanessa)
@@ -200,12 +202,13 @@
 </details>
 
 ### 📚 Array
-
-<details>
-<summary>查看详情</summary>
   
 * [all](https://hacpai.com/article/1554338745768?r=Vanessa)
 * [allEqual](https://hacpai.com/article/1554514785576?r=Vanessa)
+
+<details>
+<summary>查看更多</summary>
+
 * [any](https://hacpai.com/article/1554516319199?r=Vanessa)
 * [arrayToCSV](https://hacpai.com/article/1554601365527?r=Vanessa)
 * [bifurcate](https://hacpai.com/article/1554808695791?r=Vanessa)
