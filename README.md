@@ -276,6 +276,9 @@
 * [sortedIndexBy](https://hacpai.com/article/1560091882829?r=Vanessa) 
 * [sortedLastIndex](https://hacpai.com/article/1560150249264?r=Vanessa) 
 * [sortedLastIndexBy](https://hacpai.com/article/1560217855064?r=Vanessa)
+* [stableSort](https://hacpai.com/article/1560509394532?r=Vanessa) <sup>advanced</sup>
+* [symmetricDifference](https://hacpai.com/article/1560510114896?r=Vanessa)
+* [symmetricDifferenceBy](https://hacpai.com/article/1560510834352?r=Vanessa)
 * TODO
 
 </details>
