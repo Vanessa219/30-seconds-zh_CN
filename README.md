@@ -279,6 +279,9 @@
 * [stableSort](https://hacpai.com/article/1560509394532?r=Vanessa) <sup>advanced</sup>
 * [symmetricDifference](https://hacpai.com/article/1560510114896?r=Vanessa)
 * [symmetricDifferenceBy](https://hacpai.com/article/1560510834352?r=Vanessa)
+* [symmetricDifferenceWith](https://hacpai.com/article/1560743696237?r=Vanessa)
+* [tail](https://hacpai.com/article/1560745429507?r=Vanessa)
+* [take](https://hacpai.com/article/1560744504612?r=Vanessa)
 * TODO
 
 </details>
