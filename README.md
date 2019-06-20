@@ -282,6 +282,9 @@
 * [symmetricDifferenceWith](https://hacpai.com/article/1560743696237?r=Vanessa)
 * [tail](https://hacpai.com/article/1560745429507?r=Vanessa)
 * [take](https://hacpai.com/article/1560744504612?r=Vanessa)
+* [takeRight](https://hacpai.com/article/1560996714483?r=Vanessa)
+* [takeRightWhile](https://hacpai.com/article/1560998525893?r=Vanessa)
+* [takeWhile](https://hacpai.com/article/1560997854877?r=Vanessa)
 * TODO
 
 </details>
