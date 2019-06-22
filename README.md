@@ -286,6 +286,7 @@
 * [takeRightWhile](https://hacpai.com/article/1560998525893?r=Vanessa)
 * [takeWhile](https://hacpai.com/article/1560997854877?r=Vanessa)
 * [toHash](https://hacpai.com/article/1561083506048?r=Vanessa)
+* [union](https://hacpai.com/article/1561168014444?r=Vanessa)
 * TODO
 
 </details>
