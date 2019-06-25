@@ -288,6 +288,8 @@
 * [toHash](https://hacpai.com/article/1561083506048?r=Vanessa)
 * [union](https://hacpai.com/article/1561168014444?r=Vanessa)
 * [unionBy](https://hacpai.com/article/1561267134857?r=Vanessa)
+* [unionWith](https://hacpai.com/article/1561431084373?r=Vanessa)
+* [uniqueElements](https://hacpai.com/article/1561431800384?r=Vanessa)
 * TODO
 
 </details>
