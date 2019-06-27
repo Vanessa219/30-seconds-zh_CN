@@ -290,6 +290,8 @@
 * [unionBy](https://hacpai.com/article/1561267134857?r=Vanessa)
 * [unionWith](https://hacpai.com/article/1561431084373?r=Vanessa)
 * [uniqueElements](https://hacpai.com/article/1561431800384?r=Vanessa)
+* [uniqueElementsBy](https://hacpai.com/article/1561640064239?r=Vanessa)
+* [uniqueElementsByRight](https://hacpai.com/article/1561643147049?r=Vanessa)
 * TODO
 
 </details>
