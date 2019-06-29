@@ -292,6 +292,8 @@
 * [uniqueElements](https://hacpai.com/article/1561431800384?r=Vanessa)
 * [uniqueElementsBy](https://hacpai.com/article/1561640064239?r=Vanessa)
 * [uniqueElementsByRight](https://hacpai.com/article/1561643147049?r=Vanessa)
+* [uniqueSymmetricDifference](https://hacpai.com/article/1561777344967?r=Vanessa)
+* [unzip](https://hacpai.com/article/1561778124825?r=Vanessa)
 * TODO
 
 </details>
