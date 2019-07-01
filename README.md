@@ -294,6 +294,8 @@
 * [uniqueElementsByRight](https://hacpai.com/article/1561643147049?r=Vanessa)
 * [uniqueSymmetricDifference](https://hacpai.com/article/1561777344967?r=Vanessa)
 * [unzip](https://hacpai.com/article/1561778124825?r=Vanessa)
+* [unzipWith](https://hacpai.com/article/1561945854495?r=Vanessa) <sup>advanced</sup>
+* [without](https://hacpai.com/article/1561946524799?r=Vanessa)
 * TODO
 
 </details>
