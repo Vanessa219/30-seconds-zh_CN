@@ -298,6 +298,7 @@
 * [without](https://hacpai.com/article/1561946524799?r=Vanessa)
 * [xProd](https://hacpai.com/article/1562041374499?r=Vanessa)
 * [zip](https://hacpai.com/article/1562124026658?r=Vanessa)
+* [zipObject](https://hacpai.com/article/1562215164140?r=Vanessa)
 * TODO
 
 </details>
