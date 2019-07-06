@@ -300,7 +300,6 @@
 * [zip](https://hacpai.com/article/1562124026658?r=Vanessa)
 * [zipObject](https://hacpai.com/article/1562215164140?r=Vanessa)
 * [zipWith](https://hacpai.com/article/1562298684138?r=Vanessa) <sup>advanced</sup>
-* TODO
 
 </details>
 
