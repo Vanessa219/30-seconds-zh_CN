@@ -349,7 +349,8 @@ TODO
 
 ### 布局
 
-* [Box-sizing reset](https://hacpai.com/article/1562465813903?r=Vanessa)
+* [清除浮动](https://hacpai.com/article/1562554494716?r=Vanessa)
+* [重置 box-sizing](https://hacpai.com/article/1562465813903?r=Vanessa)
 * TODO
 
 ### 视觉
@@ -358,7 +359,7 @@ TODO
 
 ### 动画
 
-* [Bouncing loader](https://hacpai.com/article/1562389135571?r=Vanessa)
+* [弹跳加载](https://hacpai.com/article/1562389135571?r=Vanessa)
 * TODO
 
 ### 交互
