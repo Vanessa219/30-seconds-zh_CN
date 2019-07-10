@@ -352,7 +352,7 @@ TODO
 * [清除浮动](https://hacpai.com/article/1562554494716?r=Vanessa)
 * [重置 box-sizing](https://hacpai.com/article/1562465813903?r=Vanessa)
 * [宽高保持一致](https://hacpai.com/article/1562638466183?r=Vanessa)
-* [table 剧中显示](https://hacpai.com/article/1562744725026?r=Vanessa)
+* [table 居中显示](https://hacpai.com/article/1562744725026?r=Vanessa)
 * TODO
 
 ### 视觉
