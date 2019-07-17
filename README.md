@@ -29,10 +29,6 @@
 
 * [图片标签中的 alt 有什么作用？](https://hacpai.com/article/1544800582516?r=Vanessa)
 * [清缓存的目的是什么，如何实现？](https://hacpai.com/article/1544845023860?r=Vanessa)
-
-<details>
-<summary>查看更多</summary>
-
 * [HTML 中可以包含多个 `<header>` 或者 `<footer>` 元素吗？](https://hacpai.com/article/1544932228390?r=Vanessa)
 * [简单描述 HTML5 语义元素中 `<header>`、`<article>`、`<section>`、`<footer>` 的正确用法](https://hacpai.com/article/1544977054016?r=Vanessa)
 * [简述 `<script>` 标签中的 defer 和 async 属性](https://hacpai.com/article/1545093175137?r=Vanessa)
@@ -42,17 +38,11 @@
 * [`rel="noopener"` 应在什么场景下使用，为什么？](https://hacpai.com/article/1545535924073?r=Vanessa)
 * [什么是 HTML5 存储？解释一下 `localStorage` 和 `sessionStorage`](https://hacpai.com/article/1545614869150?r=Vanessa)
 * [解释 MIME type 及其作用](https://hacpai.com/article/1548381047741?r=Vanessa)
-</details>
-
 
 ### CSS
 
 * [介绍一下 CSS 的 BEM](https://hacpai.com/article/1545707000031?r=Vanessa)
 * [CSS 预处理器有什么优势？](https://hacpai.com/article/1545789633753?r=Vanessa)
-
-<details>
-<summary>查看更多</summary>
-
 * [使用 flexbox，创建一个 3 列布局，其中每列占据容器的 col-{n} / 12 比率](https://hacpai.com/article/1545875909329?r=Vanessa)
 * [简述一下 `@media` 的媒体类型](https://hacpai.com/article/1545961060623?r=Vanessa)
 * [描述 CSS 盒子模型布局并简要描述其每一个部分](https://hacpai.com/article/1546051999340?r=Vanessa)
@@ -61,16 +51,11 @@
 * [CSS sprites 的优点及如何使用？](https://hacpai.com/article/1546350675686?r=Vanessa)
 * [`+` 和 `~` 选择器有什么区别？](https://hacpai.com/article/1546396257706?r=Vanessa)
 * [CSS 优先级是如何计算的？](https://hacpai.com/article/1546528225489?r=Vanessa)
-</details>
 
 ### JavaScript
 
 * [等于操作符 \`==\` 和 \`===\` 有什么区别](https://hacpai.com/article/1546570870626?r=Vanessa)
 * [后置递增 \`i++\` 和前置递增 \`++i\` 操作有什么区别？](https://hacpai.com/article/1546665384680?r=Vanessa)
-
-<details>
-<summary>查看更多</summary>
-
 * [`Promise` 有哪些状态？](https://hacpai.com/article/1546828434083?r=Vanessa)
 * [根据食谱和已有食材计算可烹饪的最大次数](https://hacpai.com/article/1546833887125?r=Vanessa)
 * [实现一个功能和 `Function.prototype.bind` 相同的函数](https://hacpai.com/article/1546958569887?r=Vanessa)
@@ -120,16 +105,10 @@
 * [`use strict` 的作用](https://hacpai.com/article/1550891475480?r=Vanessa)
 * [虚拟 DOM 是什么，库或者框架中为什么要使用他？](https://hacpai.com/article/1550980580727?r=Vanessa)
 
-</details>
-
 ### React
 
 * [什么是内联条件表达式？](https://hacpai.com/article/1548166592192?r=Vanessa)
 * [React 和 HTML 的事件处理有什么不同？](https://hacpai.com/article/1545321971993?r=Vanessa)
-
-<details>
-<summary>查看更多</summary>
-
 * [React 中的元素和组件有什么不同？](https://hacpai.com/article/1551068452927?r=Vanessa)
 * [状态提升在 React 中的作用](https://hacpai.com/article/1551143997511?r=Vanessa)
 * [React 中如何在 JSX 树中写注释](https://hacpai.com/article/1551338654162?r=Vanessa)
@@ -152,25 +131,84 @@
 * [React 中如何使用 prop 检查？](https://hacpai.com/article/1552703646797?r=Vanessa)
 * [介绍 React 中的 Refs 及其使用场景？](https://hacpai.com/article/1552798811035?r=Vanessa)
 
-</details>
-
 ### Node
 
 * [NodeJS 回调的错误处理方式及其优点](https://hacpai.com/article/1552875246782?r=Vanessa)
 * [什么是 REST？](https://hacpai.com/article/1552958044343?r=Vanessa)
-
-<details>
-<summary>查看更多</summary>
-
 * [如何避免地狱回调？](https://hacpai.com/article/1553145263366?r=Vanessa)
 * [什么是 Node.js 中的事件循环？](https://hacpai.com/article/1553156014524?r=Vanessa)
-
-</details>
 
 ### Security
 
 * [什么是跨站点脚本攻击（XSS）？应如何阻止他？](https://hacpai.com/article/1553313536893?r=Vanessa)
 
+<br><br><br>
+
+<p align="center">
+<a href="https://hacpai.com/article/1562382028912?r=Vanessa"><img src="https://camo.githubusercontent.com/f746b4f3f7a3c82c18fe74225f3dc191af0a818f/68747470733a2f2f692e696d6775722e636f6d2f6b504d667944342e6a7067" alt="每天 30 秒系列之 CSS"></a>
+</p>
+<h2 align="center">每天 30 秒系列之 CSS</h1>
+<h4 align="center">精选常见交互，帮助您拥有简洁酷炫的站点</h4>
+
+### 布局
+
+* [清除浮动](https://hacpai.com/article/1562554494716?r=Vanessa)
+* [重置 box-sizing](https://hacpai.com/article/1562465813903?r=Vanessa)
+* [宽高保持一致](https://hacpai.com/article/1562638466183?r=Vanessa)
+* [table 居中显示](https://hacpai.com/article/1562744725026?r=Vanessa)
+* [平均分配子元素](https://hacpai.com/article/1562814941520?r=Vanessa)
+* [盒子模型居中](https://hacpai.com/article/1562896752331?r=Vanessa)
+* [垂直小技巧](https://hacpai.com/article/1562993021562?r=Vanessa)
+* [网格居中](https://hacpai.com/article/1563069280503?r=Vanessa)
+* [最后一个元素占满剩余可用高度](https://hacpai.com/article/1563163181259?r=Vanessa)
+* [使用 transform 进行居中](https://hacpai.com/article/1563262632001?r=Vanessa)
+* [文本截断](https://hacpai.com/article/1563330221221?r=Vanessa)
+* TODO
+
+### 视觉
+
+* TODO
+
+### 动画
+
+* [弹跳加载](https://hacpai.com/article/1562389135571?r=Vanessa)
+* TODO
+
+### 交互
+
+* TODO
+
+### 其他
+
+* TODO
+
+<br><br><br>
+
+<p align="center">
+<img src="https://github.com/30-seconds/30-seconds-of-react/raw/master/logo.png" alt="每天 30 秒系列之 React">
+</p>
+<h2 align="center">每天 30 秒系列之 React</h1>
+<h4 align="center">精选常见 React，帮助您高效的编写</h4>
+
+### Array
+
+* TODO
+
+### Input
+
+* TODO
+
+### Object
+
+* TODO
+
+### String
+
+TODO
+
+### Visual
+
+* TODO
 
 <br><br><br>
 
@@ -184,10 +222,6 @@
   
 * [ary](https://hacpai.com/article/1553322866329?r=Vanessa)
 * [call](https://hacpai.com/article/1553434314516?r=Vanessa)
-
-<details>
-<summary>查看更多</summary>
-
 * [collectInfo](https://hacpai.com/article/1553477818016?r=Vanessa)
 * [flip](https://hacpai.com/article/1553565894558?r=Vanessa)
 * [over](https://hacpai.com/article/1553647055521?r=Vanessa)
@@ -199,16 +233,10 @@
 * [spreadOver](https://hacpai.com/article/1554163964363?r=Vanessa)
 * [unary](https://hacpai.com/article/1554250275633?r=Vanessa)
 
-</details>
-
 ### 📚 Array
   
 * [all](https://hacpai.com/article/1554338745768?r=Vanessa)
 * [allEqual](https://hacpai.com/article/1554514785576?r=Vanessa)
-
-<details>
-<summary>查看更多</summary>
-
 * [any](https://hacpai.com/article/1554516319199?r=Vanessa)
 * [arrayToCSV](https://hacpai.com/article/1554601365527?r=Vanessa)
 * [bifurcate](https://hacpai.com/article/1554808695791?r=Vanessa)
@@ -301,8 +329,6 @@
 * [zipObject](https://hacpai.com/article/1562215164140?r=Vanessa)
 * [zipWith](https://hacpai.com/article/1562298684138?r=Vanessa) <sup>advanced</sup>
 
-</details>
-
 ### 🌐 Browser
 
 TODO
@@ -336,73 +362,5 @@ TODO
 TODO
 
 ### 🔧 Utility
-
-TODO
-
-<br><br><br>
-
-<p align="center">
-<a href="https://hacpai.com/article/1562382028912?r=Vanessa"><img src="https://camo.githubusercontent.com/f746b4f3f7a3c82c18fe74225f3dc191af0a818f/68747470733a2f2f692e696d6775722e636f6d2f6b504d667944342e6a7067" alt="每天 30 秒系列之 CSS"></a>
-</p>
-<h2 align="center">每天 30 秒系列之 CSS</h1>
-<h4 align="center">精选常见交互，帮助您拥有简洁酷炫的站点</h4>
-
-### 布局
-
-* [清除浮动](https://hacpai.com/article/1562554494716?r=Vanessa)
-* [重置 box-sizing](https://hacpai.com/article/1562465813903?r=Vanessa)
-* [宽高保持一致](https://hacpai.com/article/1562638466183?r=Vanessa)
-* [table 居中显示](https://hacpai.com/article/1562744725026?r=Vanessa)
-* [平均分配子元素](https://hacpai.com/article/1562814941520?r=Vanessa)
-* [盒子模型居中](https://hacpai.com/article/1562896752331?r=Vanessa)
-* [垂直小技巧](https://hacpai.com/article/1562993021562?r=Vanessa)
-* [网格居中](https://hacpai.com/article/1563069280503?r=Vanessa)
-* [最后一个元素占满剩余可用高度](https://hacpai.com/article/1563163181259?r=Vanessa)
-* [使用 transform 进行居中](https://hacpai.com/article/1563262632001?r=Vanessa)
-* [文本截断](https://hacpai.com/article/1563330221221?r=Vanessa)
-* TODO
-
-### 视觉
-
-* TODO
-
-### 动画
-
-* [弹跳加载](https://hacpai.com/article/1562389135571?r=Vanessa)
-* TODO
-
-### 交互
-
-* TODO
-
-### 其他
-
-* TODO
-
-<br><br><br>
-
-<p align="center">
-<img src="https://github.com/30-seconds/30-seconds-of-react/raw/master/logo.png" alt="每天 30 秒系列之 React">
-</p>
-<h2 align="center">每天 30 秒系列之 React</h1>
-<h4 align="center">精选常见 React，帮助您高效的编写</h4>
-
-### Array
-
-TODO
-
-### Input
-
-TODO
-
-### Object
-
-TODO
-
-### String
-
-TODO
-
-### Visual
 
 TODO
