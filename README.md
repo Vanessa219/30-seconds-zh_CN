@@ -162,8 +162,8 @@
 * [网格居中](https://hacpai.com/article/1563069280503?r=Vanessa)
 * [最后一个元素占满剩余可用高度](https://hacpai.com/article/1563163181259?r=Vanessa)
 * [使用 transform 进行居中](https://hacpai.com/article/1563262632001?r=Vanessa)
-* [文本截断](https://hacpai.com/article/1563330221221?r=Vanessa)
-* TODO
+* [多行文本截断](https://hacpai.com/article/1563330221221?r=Vanessa)
+* [文本截断](https://hacpai.com/article/1563412881972?r=Vanessa)
 
 ### 视觉
 
