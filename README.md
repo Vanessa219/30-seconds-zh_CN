@@ -11,13 +11,9 @@
 
 ## 背景
 
-...
+英文原文请看 [30 seconds](https://github.com/30-seconds)，若有翻译不恰当之处请向我们反馈，非常感谢 :heart:
 
-英文原文请看 [30 seconds](https://github.com/30-seconds)
-
-若有翻译不恰当之处请向我们反馈，非常感谢 :heart:
-
-<br><br><br>
+---
 
 <p align="center">
     <a href="https://hacpai.com/article/1544793046274?r=Vanessa"><img src="https://raw.githubusercontent.com/30-seconds/30-seconds-of-interviews/master/logo.jpg" alt="每天 30 秒系列之前端面试"></a>
@@ -142,7 +138,7 @@
 
 * [什么是跨站点脚本攻击（XSS）？应如何阻止他？](https://hacpai.com/article/1553313536893?r=Vanessa)
 
-<br><br><br>
+---
 
 <p align="center">
 <a href="https://hacpai.com/article/1562382028912?r=Vanessa"><img src="https://camo.githubusercontent.com/f746b4f3f7a3c82c18fe74225f3dc191af0a818f/68747470733a2f2f692e696d6775722e636f6d2f6b504d667944342e6a7067" alt="每天 30 秒系列之 CSS"></a>
@@ -185,7 +181,7 @@
 
 * TODO
 
-<br><br><br>
+---
 
 <p align="center">
 <img src="https://github.com/30-seconds/30-seconds-of-react/raw/master/logo.png" alt="每天 30 秒系列之 React">
@@ -213,7 +209,7 @@ TODO
 
 * TODO
 
-<br><br><br>
+---
 
 <p align="center">
 <a href="https://hacpai.com/article/1553314584340?r=Vanessa"><img src="https://github.com/30-seconds/30-seconds-of-code/raw/master/logo.png" alt="每天 30 秒系列之 JavaScript Code"></a>
