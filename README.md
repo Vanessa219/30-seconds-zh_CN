@@ -1,7 +1,3 @@
-<p align="center">
-    <a href="https://hacpai.com/article/1553314676872?r=Vanessa"><img src="https://user-images.githubusercontent.com/970828/57420814-d1341880-723b-11e9-9433-ac2cb204d7c3.jpg" alt="每天 30 秒系列"></a>
-</p>
-
 <h1 align="center">每天 30 秒系列</h1>
 <h4 align="center">精选前端问题集，坚持每天 30 秒</h4>
 <br>
