@@ -5,8 +5,6 @@
     <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a>
 </p>
 
-## 背景
-
 英文原文请看 [30 seconds](https://github.com/30-seconds)，若有翻译不恰当之处请向我们反馈，非常感谢 :heart:
 
 ---
