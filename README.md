@@ -1,5 +1,5 @@
 <h1 align="center">每天 30 秒系列</h1>
-<h4 align="center">精选前端问题集，坚持每天 30 秒</h4>
+<h4 align="center">前端精选问题集，每天仅需 30 秒</h4>
 <br>
 <p align="center">
     <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a>
