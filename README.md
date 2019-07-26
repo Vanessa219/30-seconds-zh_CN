@@ -164,6 +164,7 @@
 * [文本风化效果](https://hacpai.com/article/1563867358980?r=Vanessa)
 * [图片适配](https://hacpai.com/article/1563974277626?r=Vanessa)
 * [全屏](https://hacpai.com/article/1564018587560?r=Vanessa)
+* [文本渐变](https://hacpai.com/article/1564108347320?r=Vanessa)
 * TODO
 
 ### 动画
