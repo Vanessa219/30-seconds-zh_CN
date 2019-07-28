@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-英文原文请看 [30 seconds](https://github.com/30-seconds)，若有翻译不恰当之处请向我们反馈，非常感谢 :heart:
+    英文原文请看 <a href="https://github.com/30-seconds">30 seconds</a>，若有翻译不恰当之处请向我们反馈，非常感谢 :heart:
 </p>
 
 ---
