@@ -5,9 +5,15 @@
     <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a>
 </p>
 
+<p align="center">
 英文原文请看 [30 seconds](https://github.com/30-seconds)，若有翻译不恰当之处请向我们反馈，非常感谢 :heart:
+</p>
 
 ---
+
+* 明日 30s - 脱离屏幕
+* 今日 30s - [:not 选择器](https://hacpai.com/article/1564327826600?r=Vanessa)
+* 昨日 30s - [细而明显的边框](https://hacpai.com/article/1564240018195?r=Vanessa)
 
 <p align="center">
     <a href="https://hacpai.com/article/1544793046274?r=Vanessa"><img src="https://raw.githubusercontent.com/30-seconds/30-seconds-of-interviews/master/logo.jpg" alt="每天 30 秒系列之前端面试"></a>
@@ -166,6 +172,7 @@
 * [全屏](https://hacpai.com/article/1564018587560?r=Vanessa)
 * [文本渐变](https://hacpai.com/article/1564108347320?r=Vanessa)
 * [细而明显的边框](https://hacpai.com/article/1564240018195?r=Vanessa)
+* [:not 选择器](https://hacpai.com/article/1564327826600?r=Vanessa)
 * TODO
 
 ### 动画
