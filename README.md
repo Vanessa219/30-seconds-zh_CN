@@ -8,9 +8,9 @@
 
 ----
 
-* 明日 30s - 脱离屏幕
-* 今日 30s - [:not 选择器](https://hacpai.com/article/1564327826600?r=Vanessa)
-* 昨日 30s - [细而明显的边框](https://hacpai.com/article/1564240018195?r=Vanessa)
+* 明日 30s - 漂亮的下划线
+* 今日 30s - [对溢出的内容进行渐变](https://hacpai.com/article/1564451547624?r=Vanessa)
+* 昨日 30s - [逃离屏幕](https://hacpai.com/article/1564450347463?r=Vanessa)
 
 ----
 
@@ -172,6 +172,8 @@
 * [文本渐变](https://hacpai.com/article/1564108347320?r=Vanessa)
 * [细而明显的边框](https://hacpai.com/article/1564240018195?r=Vanessa)
 * [:not 选择器](https://hacpai.com/article/1564327826600?r=Vanessa)
+* [逃离屏幕](https://hacpai.com/article/1564450347463?r=Vanessa)
+* [对溢出的内容进行渐变](https://hacpai.com/article/1564451547624?r=Vanessa)
 * TODO
 
 ### 动画
