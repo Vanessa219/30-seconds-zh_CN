@@ -8,9 +8,9 @@
 
 ----
 
-* 明日 30s - 波浪分割
-* 今日 30s - [重置所有样式](https://hacpai.com/article/1564624644104?r=Vanessa)
-* 昨日 30s - [漂亮的下划线](https://hacpai.com/article/1564623955538?r=Vanessa)
+* 明日 30s - 使用系统字体
+* 今日 30s - [带形状的分割线](https://hacpai.com/article/1564757051197?r=Vanessa)
+* 昨日 30s - [重置所有样式](https://hacpai.com/article/1564624644104?r=Vanessa)
 
 ----
 
@@ -176,6 +176,7 @@
 * [对溢出的内容进行渐变](https://hacpai.com/article/1564451547624?r=Vanessa)
 * [漂亮的下划线](https://hacpai.com/article/1564623955538?r=Vanessa)
 * [重置所有样式](https://hacpai.com/article/1564624644104?r=Vanessa)
+* [带形状的分割线](https://hacpai.com/article/1564757051197?r=Vanessa)
 * TODO
 
 ### 动画
