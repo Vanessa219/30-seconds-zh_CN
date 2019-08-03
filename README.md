@@ -8,9 +8,9 @@
 
 ----
 
-* 明日 30s - 使用系统字体
-* 今日 30s - [带形状的分割线](https://hacpai.com/article/1564757051197?r=Vanessa)
-* 昨日 30s - [重置所有样式](https://hacpai.com/article/1564624644104?r=Vanessa)
+* 明日 30s - 三角形
+* 今日 30s - [系统字体栈](https://hacpai.com/article/1564836010214?r=Vanessa)
+* 昨日 30s - [带形状的分割线](https://hacpai.com/article/1564757051197?r=Vanessa)
 
 ----
 
@@ -177,6 +177,7 @@
 * [漂亮的下划线](https://hacpai.com/article/1564623955538?r=Vanessa)
 * [重置所有样式](https://hacpai.com/article/1564624644104?r=Vanessa)
 * [带形状的分割线](https://hacpai.com/article/1564757051197?r=Vanessa)
+* [系统字体栈](https://hacpai.com/article/1564836010214?r=Vanessa)
 * TODO
 
 ### 动画
