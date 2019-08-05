@@ -8,9 +8,9 @@
 
 ----
 
-* 明日 30s - 条纹列表
-* 今日 30s - [三角形](https://hacpai.com/article/1564898822590?r=Vanessa)
-* 昨日 30s - [系统字体栈](https://hacpai.com/article/1564836010214?r=Vanessa)
+* 明日 30s - 边框动画
+* 今日 30s - [斑马条纹列表](https://hacpai.com/article/1564986603713?r=Vanessa)
+* 昨日 30s - [三角形](https://hacpai.com/article/1564898822590?r=Vanessa)
 
 ----
 
@@ -179,7 +179,7 @@
 * [带形状的分割线](https://hacpai.com/article/1564757051197?r=Vanessa)
 * [系统字体栈](https://hacpai.com/article/1564836010214?r=Vanessa)
 * [三角形](https://hacpai.com/article/1564898822590?r=Vanessa)
-* TODO
+* [斑马条纹列表](https://hacpai.com/article/1564986603713?r=Vanessa)
 
 ### 动画
 
