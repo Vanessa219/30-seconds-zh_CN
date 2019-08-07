@@ -8,9 +8,9 @@
 
 ----
 
-* 明日 30s - 🍩旋转
-* 今日 30s - [按钮边框动画](https://hacpai.com/article/1565100963387?r=Vanessa)
-* 昨日 30s - [斑马条纹列表](https://hacpai.com/article/1564986603713?r=Vanessa)
+* 明日 30s - 动画时间曲线
+* 今日 30s - [🍩式的旋转](https://hacpai.com/article/1565191053298?r=Vanessa)
+* 昨日 30s - [按钮边框动画](https://hacpai.com/article/1565100963387?r=Vanessa)
 
 ----
 
@@ -185,6 +185,7 @@
 
 * [弹跳加载](https://hacpai.com/article/1562389135571?r=Vanessa)
 * [按钮边框动画](https://hacpai.com/article/1565100963387?r=Vanessa)
+* [🍩式的旋转](https://hacpai.com/article/1565191053298?r=Vanessa)
 * TODO
 
 ### 交互
