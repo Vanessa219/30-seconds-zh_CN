@@ -8,9 +8,9 @@
 
 ----
 
-* 明日 30s - 阴影盒子的动画效果
-* 今日 30s - [高度变化时的过渡效果](https://hacpai.com/article/1565404525067?r=Vanessa)
-* 昨日 30s - [简单的变量](https://hacpai.com/article/1565273884235?r=Vanessa)
+* 明日 30s - 选不中我
+* 今日 30s - [下划线动画](https://hacpai.com/article/1565674146683?r=Vanessa)
+* 昨日 30s - [阴影盒子的动画效果](https://hacpai.com/article/1565671538636?r=Vanessa)
 
 ----
 
@@ -188,7 +188,8 @@
 * [🍩式的旋转](https://hacpai.com/article/1565191053298?r=Vanessa)
 * [简单的变量](https://hacpai.com/article/1565273884235?r=Vanessa)
 * [高度变化时的过渡效果](https://hacpai.com/article/1565404525067?r=Vanessa)
-* TODO
+* [阴影盒子的动画效果](https://hacpai.com/article/1565671538636?r=Vanessa)
+* [下划线动画](https://hacpai.com/article/1565674146683?r=Vanessa)
 
 ### 交互
 
