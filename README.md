@@ -8,7 +8,7 @@
 
 ----
 
-* 明日 30s - 光标渐变跟踪
+* 明日 30s - 跟踪光标的渐变效果
 * 今日 30s - [子元素选中后改变父元素的样式](https://hacpai.com/article/1565916662669?r=Vanessa)
 * 昨日 30s - [选不中我](https://hacpai.com/article/1565769512995?r=Vanessa)
 
