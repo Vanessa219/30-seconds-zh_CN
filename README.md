@@ -8,9 +8,9 @@
 
 ----
 
-* 明日 30s - 子元素选中后改变父元素的样式
-* 今日 30s - [选不中我](https://hacpai.com/article/1565769512995?r=Vanessa)
-* 昨日 30s - [下划线动画](https://hacpai.com/article/1565674146683?r=Vanessa)
+* 明日 30s - 光标渐变跟踪
+* 今日 30s - [子元素选中后改变父元素的样式](https://hacpai.com/article/1565916662669?r=Vanessa)
+* 昨日 30s - [选不中我](https://hacpai.com/article/1565769512995?r=Vanessa)
 
 ----
 
@@ -194,6 +194,7 @@
 ### 交互
 
 * [选不中我](https://hacpai.com/article/1565769512995?r=Vanessa)
+* [子元素选中后改变父元素的样式](https://hacpai.com/article/1565916662669?r=Vanessa)
 * TODO
 
 ### 其他
