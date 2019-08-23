@@ -8,9 +8,9 @@
 
 ----
 
-* 明日 30s - Calc()
-* 今日 30s - [可切换的开关](https://hacpai.com/article/1566372708794?r=Vanessa)
-* 昨日 30s - [相邻兄弟视觉弱化](https://hacpai.com/article/1566284962300?r=Vanessa)
+* 明日 30s - 自定义变量
+* 今日 30s - [计数器](https://hacpai.com/article/1566565149141?r=Vanessa)
+* 昨日 30s - [Cacl()](https://hacpai.com/article/1566554498785?r=Vanessa)
 
 ----
 
@@ -202,6 +202,8 @@
 
 ### 其他
 
+* [Cacl()](https://hacpai.com/article/1566554498785?r=Vanessa)
+* [计数器](https://hacpai.com/article/1566565149141?r=Vanessa)
 * TODO
 
 ---
