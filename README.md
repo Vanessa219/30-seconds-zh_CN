@@ -8,9 +8,9 @@
 
 ----
 
-* 明日 30s - 自定义变量
-* 今日 30s - [计数器](https://hacpai.com/article/1566565149141?r=Vanessa)
-* 昨日 30s - [Cacl()](https://hacpai.com/article/1566554498785?r=Vanessa)
+* 明日 30s - React 数组
+* 今日 30s - [自定义变量](https://hacpai.com/article/1566780399433?r=Vanessa)
+* 昨日 30s - [计数器](https://hacpai.com/article/1566565149141?r=Vanessa)
 
 ----
 
@@ -204,7 +204,7 @@
 
 * [Cacl()](https://hacpai.com/article/1566554498785?r=Vanessa)
 * [计数器](https://hacpai.com/article/1566565149141?r=Vanessa)
-* TODO
+* [自定义变量](https://hacpai.com/article/1566780399433?r=Vanessa)
 
 ---
 
