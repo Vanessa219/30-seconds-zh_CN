@@ -209,10 +209,10 @@
 ---
 
 <p align="center">
-<img src="https://github.com/30-seconds/30-seconds-of-react/raw/master/logo.png" alt="每天 30 秒系列之 React">
+<a href="https://hacpai.com/article/1566885644051?r=Vanessa"><img src="https://github.com/30-seconds/30-seconds-of-react/raw/master/logo.png" alt="每天 30 秒系列之 React"></a>
 </p>
 <h2 align="center">每天 30 秒系列之 React</h1>
-<h4 align="center">精选常见 React，帮助您高效的编写</h4>
+<h4 align="center">精选有用的 React 片段，最佳实践助您高效使用</h4>
 
 ### Array
 
