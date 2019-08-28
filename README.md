@@ -8,9 +8,9 @@
 
 ----
 
-* 明日 30s - React 之 DataTable
-* 今日 30s - [DataList](https://hacpai.com/article/1566889238234?r=Vanessa)
-* 昨日 30s - [自定义变量](https://hacpai.com/article/1566780399433?r=Vanessa)
+* 明日 30s - React 之 MappedTable
+* 今日 30s - [DataTable](https://hacpai.com/article/1566953950003?r=Vanessa)
+* 昨日 30s - [DataList](https://hacpai.com/article/1566889238234?r=Vanessa)
 ----
 
 <p align="center">
@@ -216,6 +216,7 @@
 ### Array
 
 * [DataList](https://hacpai.com/article/1566889238234?r=Vanessa)
+* [DataTable](https://hacpai.com/article/1566953950003?r=Vanessa)
 * TODO
 
 ### Input
