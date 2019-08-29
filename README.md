@@ -2,8 +2,7 @@
 <h4 align="center">前端精选问题集，每天仅需 30 秒</h4>
 <br>
 <p align="center">
-    <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a> <br>
-     英文原文请看 <a href="https://github.com/30-seconds">30 seconds</a>，若有翻译不恰当之处请向我们反馈，非常感谢 :heart:
+    <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a>
 </p>
 
 ----
@@ -389,3 +388,11 @@ TODO
 ### 🔧 Utility
 
 TODO
+
+
+---
+### 鸣谢
+
+翻译自以下项目，在此对这些项目的贡献者们致敬！若有翻译不恰当之处请向我们反馈，非常感谢 ❤️
+
+* <a href="https://github.com/30-seconds">30 seconds</a>
