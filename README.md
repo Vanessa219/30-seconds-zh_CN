@@ -2,14 +2,12 @@
 <h4 align="center">前端精选问题集，每天仅需 30 秒</h4>
 <br>
 <p align="center">
-    <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a>
+    <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a><br><br>
+ 明日 30s - React Hooks 之 useClickInside <br>
+今日 30s - <a href="https://hacpai.com/article/1567047999171?r=Vanessa" rel="nofollow">MappedTable</a> <br>
+昨日 30s - <a href="https://hacpai.com/article/1566953950003?r=Vanessa" rel="nofollow">DataTable</a>
 </p>
 
-----
-
-* 明日 30s - React Hooks 之 useClickInside
-* 今日 30s - [MappedTable](https://hacpai.com/article/1567047999171?r=Vanessa)
-* 昨日 30s - [DataTable](https://hacpai.com/article/1566953950003?r=Vanessa)
 ----
 
 <p align="center">
