@@ -3,9 +3,9 @@
 <br>
 <p align="center">
     <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a><br><br>
- 明日 30s - React Hooks 之 useClickOutside <br>
-今日 30s - <a href="https://hacpai.com/article/1567266759847?r=Vanessa" rel="nofollow">useClickInside</a> <br>
-昨日 30s - <a href="https://hacpai.com/article/1567047999171?r=Vanessa" rel="nofollow">MappedTable</a>
+ 明日 30s - React Hooks 之 useFetch <br>
+今日 30s - <a href="https://hacpai.com/article/1567409108234?r=Vanessa" rel="nofollow">useClickOutside</a> <br>
+昨日 30s - <a href="https://hacpai.com/article/1567266759847?r=Vanessa" rel="nofollow">useClickInside</a>
 </p>
 
 ----
@@ -14,7 +14,7 @@
     <a href="https://hacpai.com/article/1544793046274?r=Vanessa"><img src="https://raw.githubusercontent.com/30-seconds/30-seconds-of-interviews/master/logo.jpg" alt="每天 30 秒系列之前端面试"></a>
 </p>
 <h2 align="center">每天 30 秒系列之前端面试</h2>
-<h4 align="center">精选常见面试题，帮助您准备下一次面试</h4>
+<h4 align="center">精选常见面试题，帮助您准备下一次面试</h4>* [useClickOutside](https://hacpai.com/article/1567409108234?r=Vanessa)
 
 ### HTML
 
@@ -219,6 +219,7 @@
 ### Hook
 
 * [useClickInside](https://hacpai.com/article/1567266759847?r=Vanessa)
+* [useClickOutside](https://hacpai.com/article/1567409108234?r=Vanessa)
 * TODO
 
 ### Input
