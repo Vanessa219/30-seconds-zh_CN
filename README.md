@@ -3,9 +3,9 @@
 <br>
 <p align="center">
     <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a><br><br>
- 明日 30s - React Hooks 之 useFetch <br>
-今日 30s - <a href="https://hacpai.com/article/1567409108234?r=Vanessa" rel="nofollow">useClickOutside</a> <br>
-昨日 30s - <a href="https://hacpai.com/article/1567266759847?r=Vanessa" rel="nofollow">useClickInside</a>
+ 明日 30s - React Hooks 之 useInterval <br>
+今日 30s - <a href="https://hacpai.com/article/1567512938592?r=Vanessa" rel="nofollow">useFetch</a> <br>
+昨日 30s - <a href="https://hacpai.com/article/1567409108234?r=Vanessa" rel="nofollow">useClickOutside</a>
 </p>
 
 ----
@@ -220,6 +220,7 @@
 
 * [useClickInside](https://hacpai.com/article/1567266759847?r=Vanessa)
 * [useClickOutside](https://hacpai.com/article/1567409108234?r=Vanessa)
+* [useFetch](https://hacpai.com/article/1567512938592?r=Vanessa)
 * TODO
 
 ### Input
