@@ -3,9 +3,9 @@
 <br>
 <p align="center">
     <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a><br><br>
- 明日 30s - React Hooks 之 useTimeout <br>
-今日 30s - <a href="https://hacpai.com/article/1567682588692?r=Vanessa" rel="nofollow">useSSR</a> <br>
-昨日 30s - <a href="https://hacpai.com/article/1567561688236?r=Vanessa" rel="nofollow">useInterval</a>
+ 明日 30s - React Input 之 ControlledInput <br>
+今日 30s - <a href="https://hacpai.com/article/1567737159215?r=Vanessa" rel="nofollow">useTimeout</a> <br>
+昨日 30s - <a href="https://hacpai.com/article/1567682588692?r=Vanessa" rel="nofollow">useSSR</a>
 </p>
 
 ----
@@ -223,7 +223,7 @@
 * [useFetch](https://hacpai.com/article/1567512938592?r=Vanessa)
 * [useInterval](https://hacpai.com/article/1567561688236?r=Vanessa)
 * [useSSR](https://hacpai.com/article/1567682588692?r=Vanessa)
-* TODO
+* [useTimeout](https://hacpai.com/article/1567737159215?r=Vanessa)
 
 ### Input
 
