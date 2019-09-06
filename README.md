@@ -3,9 +3,9 @@
 <br>
 <p align="center">
     <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a><br><br>
- 明日 30s - React Input 之 ControlledInput <br>
-今日 30s - <a href="https://hacpai.com/article/1567737159215?r=Vanessa" rel="nofollow">useTimeout</a> <br>
-昨日 30s - <a href="https://hacpai.com/article/1567682588692?r=Vanessa" rel="nofollow">useSSR</a>
+ 明日 30s - React Input - 向父组件传值 <br>
+今日 30s - <a href="https://hacpai.com/article/1567737159215?r=Vanessa" rel="nofollow">使用延迟</a> <br>
+昨日 30s - <a href="https://hacpai.com/article/1567682588692?r=Vanessa" rel="nofollow">使用浏览器端识别</a>
 </p>
 
 ----
@@ -212,18 +212,18 @@
 
 ### Array
 
-* [DataList](https://hacpai.com/article/1566889238234?r=Vanessa)
-* [DataTable](https://hacpai.com/article/1566953950003?r=Vanessa)
-* [MappedTable](https://hacpai.com/article/1567047999171?r=Vanessa)
+* [列表数据](https://hacpai.com/article/1566889238234?r=Vanessa)
+* [表格数据](https://hacpai.com/article/1566953950003?r=Vanessa)
+* [表格数据映射](https://hacpai.com/article/1567047999171?r=Vanessa)
 
 ### Hook
 
-* [useClickInside](https://hacpai.com/article/1567266759847?r=Vanessa)
-* [useClickOutside](https://hacpai.com/article/1567409108234?r=Vanessa)
-* [useFetch](https://hacpai.com/article/1567512938592?r=Vanessa)
-* [useInterval](https://hacpai.com/article/1567561688236?r=Vanessa)
-* [useSSR](https://hacpai.com/article/1567682588692?r=Vanessa)
-* [useTimeout](https://hacpai.com/article/1567737159215?r=Vanessa)
+* [使用内部点击](https://hacpai.com/article/1567266759847?r=Vanessa)
+* [使用外部点击](https://hacpai.com/article/1567409108234?r=Vanessa)
+* [使用 fetch 请求](https://hacpai.com/article/1567512938592?r=Vanessa)
+* [使用间隔](https://hacpai.com/article/1567561688236?r=Vanessa)
+* [使用浏览器端识别](https://hacpai.com/article/1567682588692?r=Vanessa)
+* [使用延迟](https://hacpai.com/article/1567737159215?r=Vanessa)
 
 ### Input
 
