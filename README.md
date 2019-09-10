@@ -3,9 +3,9 @@
 <br>
 <p align="center">
     <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a><br><br>
- 明日 30s - React Input - 对 textarea 进行输入限制 <br>
-今日 30s - <a href="https://hacpai.com/article/1567995338189?r=Vanessa" rel="nofollow">input 传值给父组件</a> <br>
-昨日 30s - <a href="https://hacpai.com/article/1567737159215?r=Vanessa" rel="nofollow">使用延迟</a>
+ 明日 30s - React Input - 限制 textarea 英文单词个数的输入<br>
+今日 30s - <a href="https://hacpai.com/article/1568079430415?r=Vanessa" rel="nofollow">限制 textarea 输入的长度</a> <br>
+昨日 30s - <a href="https://hacpai.com/article/1567995338189?r=Vanessa" rel="nofollow">input 传值给父组件</a>
 </p>
 
 ----
@@ -228,6 +228,7 @@
 ### Input
 
 * [input 传值给父组件](https://hacpai.com/article/1567995338189?r=Vanessa)
+* [限制 textarea 输入的长度](https://hacpai.com/article/1568079430415?r=Vanessa)
 * TODO
 
 ### Visual
