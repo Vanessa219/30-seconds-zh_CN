@@ -3,9 +3,9 @@
 <br>
 <p align="center">
     <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a><br><br>
- 明日 30s - React Input - 多选框列表向父组件传值<br>
-今日 30s - <a href="https://hacpai.com/article/1568164179931?r=Vanessa" rel="nofollow">单词个数限制</a> <br>
-昨日 30s - <a href="https://hacpai.com/article/1568079430415?r=Vanessa" rel="nofollow">限制 textarea 输入的长度</a>
+ 明日 30s - React Input - 显示/隐藏密码<br>
+今日 30s - <a href="https://hacpai.com/article/1568297620930?r=Vanessa" rel="nofollow">多选列表向父组件传值</a> <br>
+昨日 30s - <a href="https://hacpai.com/article/1568164179931?r=Vanessa" rel="nofollow">单词个数限制</a>
 </p>
 
 ----
@@ -230,6 +230,7 @@
 * [input 传值给父组件](https://hacpai.com/article/1567995338189?r=Vanessa)
 * [限制 textarea 输入的长度](https://hacpai.com/article/1568079430415?r=Vanessa)
 * [单词个数限制](https://hacpai.com/article/1568164179931?r=Vanessa)
+* [多选列表向父组件传值](https://hacpai.com/article/1568297620930?r=Vanessa)
 * TODO
 
 ### Visual
