@@ -3,9 +3,9 @@
 <br>
 <p align="center">
     <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a><br><br>
- 明日 30s - React Input - 滑动元素向父组建传值<br>
-今日 30s - <a href="https://hacpai.com/article/1568681379861?r=Vanessa" rel="nofollow">下拉列表向父组建传值</a> <br>
-昨日 30s - <a href="https://hacpai.com/article/1568683719699?r=Vanessa" rel="nofollow">显示密码框内容</a>
+ 明日 30s - React Input - 文本输入框向父组件传值<br>
+今日 30s - <a href="https://hacpai.com/article/1568813920699?r=Vanessa" rel="nofollow">滑动元素向父组件传值</a> <br>
+昨日 30s - <a href="https://hacpai.com/article/1568681379861?r=Vanessa" rel="nofollow">下拉列表向父组建传值</a>
 </p>
 
 ----
@@ -233,6 +233,7 @@
 * [多选列表向父组件传值](https://hacpai.com/article/1568297620930?r=Vanessa)
 * [显示密码框内容](https://hacpai.com/article/1568681379861?r=Vanessa)
 * [下拉列表向父组建传值](https://hacpai.com/article/1568683719699?r=Vanessa)
+* [滑动元素向父组件传值](https://hacpai.com/article/1568813920699?r=Vanessa)
 * TODO
 
 ### Visual
