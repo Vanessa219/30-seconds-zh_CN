@@ -3,7 +3,7 @@
 <br>
 <p align="center">
     <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a><br><br>
- 明日 30s - React Input - 文本输入框向父组件传值<br>
+ 明日 30s - React Input - 输入框向父组件传值<br>
 今日 30s - <a href="https://hacpai.com/article/1568895669771?r=Vanessa" rel="nofollow">文本输入框向父组件传值</a> <br>
 昨日 30s - <a href="https://hacpai.com/article/1568813920699?r=Vanessa" rel="nofollow">滑动元素向父组件传值</a>
 </p>
