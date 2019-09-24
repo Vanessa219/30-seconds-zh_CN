@@ -3,9 +3,9 @@
 <br>
 <p align="center">
     <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a><br><br>
- 明日 30s - React Visual - 手风琴效果<br>
-今日 30s - <a href="https://hacpai.com/article/1568949280003?r=Vanessa" rel="nofollow">输入框向父组件直接传值</a> <br>
-昨日 30s - <a href="https://hacpai.com/article/1568895669771?r=Vanessa" rel="nofollow">文本输入框向父组件传值</a>
+ 明日 30s - React Visual - 文本自动转链接 <sup>advanced</sup> <br>
+今日 30s - <a href="https://hacpai.com/article/1569296757936?r=Vanessa" rel="nofollow">提示组件</a> <br>
+昨日 30s - <a href="https://hacpai.com/article/1569294627969?r=Vanessa" rel="nofollow">手风琴</a> <sup>advanced</sup>
 </p>
 
 ----
@@ -239,6 +239,8 @@
 
 ### Visual
 
+* [手风琴](https://hacpai.com/article/1569294627969?r=Vanessa) <sup>advanced</sup>
+* [提示组件](https://hacpai.com/article/1569296757936?r=Vanessa)
 * TODO
 
 ---
