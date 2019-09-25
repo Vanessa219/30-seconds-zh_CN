@@ -3,9 +3,9 @@
 <br>
 <p align="center">
     <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a><br><br>
- 明日 30s - React Visual - 文本自动转链接 <sup>advanced</sup> <br>
-今日 30s - <a href="https://hacpai.com/article/1569296757936?r=Vanessa" rel="nofollow">提示组件</a> <br>
-昨日 30s - <a href="https://hacpai.com/article/1569294627969?r=Vanessa" rel="nofollow">手风琴</a> <sup>advanced</sup>
+ 明日 30s - React Visual - 轮播组件 <br>
+今日 30s - <a href="https://hacpai.com/article/1569394527905?r=Vanessa" rel="nofollow">文本自动转链接</a> <sup>advanced</sup> <br>
+昨日 30s - <a href="https://hacpai.com/article/1569296757936?r=Vanessa" rel="nofollow">提示组件</a> 
 </p>
 
 ----
@@ -241,6 +241,7 @@
 
 * [手风琴](https://hacpai.com/article/1569294627969?r=Vanessa) <sup>advanced</sup>
 * [提示组件](https://hacpai.com/article/1569296757936?r=Vanessa)
+* [文本自动转链接](https://hacpai.com/article/1569394527905?r=Vanessa) <sup>advanced</sup>
 * TODO
 
 ---
