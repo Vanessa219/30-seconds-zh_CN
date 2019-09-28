@@ -4,7 +4,7 @@
 <p align="center">
     <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a><br><br>
  明日 30s - React Visual - 倒数计时器 <br>
-今日 30s - <a href="https://hacpai.com/article/1569670068439?r=Vanessa" rel="nofollow">折叠组件</a> <sup>advanced</sup> <br>
+今日 30s - <a href="https://hacpai.com/article/1569670068439?r=Vanessa" rel="nofollow">折叠组件</a> <br>
 昨日 30s - <a href="https://hacpai.com/article/1569646759044?r=Vanessa" rel="nofollow">轮播组件</a> 
 </p>
 
