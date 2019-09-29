@@ -3,7 +3,7 @@
 <br>
 <p align="center">
     <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a><br><br>
- 明日 30s - JavaScript Other - ['1', '7', '11'].map(parseInt); <br>
+ 明日 30s - JavaScript Other - ['1', '7', '11'].map(parseInt) <br>
 今日 30s - <a href="https://hacpai.com/article/1569721187385?r=Vanessa" rel="nofollow">时钟倒数计时器</a> <sup>advanced</sup> <br>
 昨日 30s - <a href="https://hacpai.com/article/1569670068439?r=Vanessa" rel="nofollow">折叠组件</a> 
 </p>
