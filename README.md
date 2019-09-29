@@ -3,9 +3,9 @@
 <br>
 <p align="center">
     <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a><br><br>
- 明日 30s - React Visual - 倒数计时器 <sup>advanced</sup> <br>
-今日 30s - <a href="https://hacpai.com/article/1569670068439?r=Vanessa" rel="nofollow">折叠组件</a> <br>
-昨日 30s - <a href="https://hacpai.com/article/1569646759044?r=Vanessa" rel="nofollow">轮播组件</a> 
+ 明日 30s - React Visual - 文件拖拽 <br>
+今日 30s - <a href="https://hacpai.com/article/1569721187385?r=Vanessa" rel="nofollow">时钟倒数计时器</a> <sup>advanced</sup> <br>
+昨日 30s - <a href="https://hacpai.com/article/1569670068439?r=Vanessa" rel="nofollow">折叠组件</a> 
 </p>
 
 ----
@@ -244,6 +244,7 @@
 * [文本自动转链接](https://hacpai.com/article/1569394527905?r=Vanessa) <sup>advanced</sup>
 * [轮播组件](https://hacpai.com/article/1569646759044?r=Vanessa) 
 * [折叠组件](https://hacpai.com/article/1569670068439?r=Vanessa)
+* [时钟倒数计时器](https://hacpai.com/article/1569721187385?r=Vanessa) <sup>advanced</sup>
 * TODO
 
 ---
