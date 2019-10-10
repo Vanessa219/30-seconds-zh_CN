@@ -3,9 +3,9 @@
 <br>
 <p align="center">
     <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a><br><br>
-明日 30s - React Visual - 邮件发送 <br>
-今日 30s - <a href="https://hacpai.com/article/1570604598939?r=Vanessa" rel="nofollow">旋转加载组件</a> <br>
-昨日 30s - <a href="https://hacpai.com/article/1570603898265?r=Vanessa" rel="nofollow">文件的拖拽</a> 
+明日 30s - React Visual - 弹出框组件 <br>
+今日 30s - <a href="https://hacpai.com/article/1570666928175?r=Vanessa" rel="nofollow">邮件发送组件</a> <br>
+昨日 30s - <a href="https://hacpai.com/article/1570604598939?r=Vanessa" rel="nofollow">旋转加载组件</a> 
 </p>
 
 ----
@@ -248,6 +248,7 @@
 * [时钟倒数计时器](https://hacpai.com/article/1569721187385?r=Vanessa) <sup>advanced</sup>
 * [文件的拖拽](https://hacpai.com/article/1570603898265?r=Vanessa)
 * [旋转加载组件](https://hacpai.com/article/1570604598939?r=Vanessa)
+* [邮件发送组件](https://hacpai.com/article/1570666928175?r=Vanessa)
 * TODO
 
 ---
