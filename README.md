@@ -3,9 +3,9 @@
 <br>
 <p align="center">
     <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a><br><br>
-明日 30s - CSS 交互 - 信息提示 <br>
-今日 30s - <a href="https://hacpai.com/article/1571230659440?r=Vanessa">可切换组件</a> <br>
-昨日 30s - <a href="https://hacpai.com/article/1571145129525?r=Vanessa">自动计数器</a> 
+明日 30s - React Visual - 提示组件 <br>
+今日 30s - <a href="https://hacpai.com/article/1571281453135?r=Vanessa">信息提示</a> <br>
+昨日 30s - <a href="https://hacpai.com/article/1571230659440?r=Vanessa">可切换组件</a> 
 </p>
 
 ----
@@ -196,6 +196,7 @@
 * [当鼠标移上或聚焦时弹出菜单](https://hacpai.com/article/1566183411970?r=Vanessa)
 * [相邻兄弟视觉弱化](https://hacpai.com/article/1566284962300?r=Vanessa)
 * [可切换的开关](https://hacpai.com/article/1566372708794?r=Vanessa)
+* [信息提示](https://hacpai.com/article/1571281453135?r=Vanessa)
 
 ### 其他
 
