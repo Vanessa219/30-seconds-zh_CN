@@ -3,9 +3,9 @@
 <br>
 <p align="center">
     <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a><br><br>
-明日 30s - React Visual - 提示组件 <br>
-今日 30s - <a href="https://hacpai.com/article/1571281453135?r=Vanessa">信息提示</a> <br>
-昨日 30s - <a href="https://hacpai.com/article/1571230659440?r=Vanessa">可切换组件</a> 
+明日 30s - React Visual - 树视图组件 (advanced) <br>
+今日 30s - <a href="https://hacpai.com/article/1571383508309?r=Vanessa">信息提示组件</a> <br>
+昨日 30s - <a href="https://hacpai.com/article/1571281453135?r=Vanessa">CSS 信息提示</a> 
 </p>
 
 ----
@@ -256,6 +256,7 @@
 * [Tab 组件](https://hacpai.com/article/1571017629695?r=Vanessa)
 * [自动计数器](https://hacpai.com/article/1571145129525?r=Vanessa)
 * [可切换组件](https://hacpai.com/article/1571230659440?r=Vanessa)
+* [信息提示组件](https://hacpai.com/article/1571383508309?r=Vanessa)
 * TODO
 
 ---
