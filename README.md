@@ -3,9 +3,9 @@
 <br>
 <p align="center">
     <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a><br><br>
-明日 30s - JavaScript Code - Browser - bottomVisible <br>
-今日 30s - <a href="https://hacpai.com/article/1571710869216?r=Vanessa">arrayToHtmlList</a> <br>
-昨日 30s - <a href="https://hacpai.com/article/1571625428308?r=Vanessa">树视图组件</a> <sup>advanced</sup>
+明日 30s - JavaScript Code - 浏览器 - 拷贝到剪切板 <br>
+今日 30s - <a href="https://hacpai.com/article/1571799008953?r=Vanessa">底部是否可见</a> <br>
+昨日 30s - <a href="https://hacpai.com/article/1571710869216?r=Vanessa">数组转换为 HTML 列表</a> 
 </p>
 
 ----
@@ -267,8 +267,8 @@
 <h2 align="center">每天 30 秒系列之 JavaScript Code</h1>
 <h4 align="center">精选常见代码集，帮助您提高打码效率</h4>
 
-### 🔌 Adapter
-  
+### 🔌 适配器
+
 * [ary](https://hacpai.com/article/1553322866329?r=Vanessa)
 * [call](https://hacpai.com/article/1553434314516?r=Vanessa)
 * [collectInfo](https://hacpai.com/article/1553477818016?r=Vanessa)
@@ -282,8 +282,8 @@
 * [spreadOver](https://hacpai.com/article/1554163964363?r=Vanessa)
 * [unary](https://hacpai.com/article/1554250275633?r=Vanessa)
 
-### 📚 Array
-  
+### 📚 数组
+
 * [all](https://hacpai.com/article/1554338745768?r=Vanessa)
 * [allEqual](https://hacpai.com/article/1554514785576?r=Vanessa)
 * [any](https://hacpai.com/article/1554516319199?r=Vanessa)
@@ -351,7 +351,7 @@
 * [similarity](https://hacpai.com/article/1559916822683?r=Vanessa) 
 * [sortedIndex](https://hacpai.com/article/1559960922066?r=Vanessa) 
 * [sortedIndexBy](https://hacpai.com/article/1560091882829?r=Vanessa) 
-* [sortedLastIndex](https://hacpai.com/article/1560150249264?r=Vanessa) 
+* [sortedLastIndex](https://hacpai.com/article/1560150249264?r=Vanessa)
 * [sortedLastIndexBy](https://hacpai.com/article/1560217855064?r=Vanessa)
 * [stableSort](https://hacpai.com/article/1560509394532?r=Vanessa) <sup>advanced</sup>
 * [symmetricDifference](https://hacpai.com/article/1560510114896?r=Vanessa)
@@ -378,19 +378,20 @@
 * [zipObject](https://hacpai.com/article/1562215164140?r=Vanessa)
 * [zipWith](https://hacpai.com/article/1562298684138?r=Vanessa) <sup>advanced</sup>
 
-### 🌐 Browser
-* [arrayToHtmlList](https://hacpai.com/article/1571710869216?r=Vanessa)
+### 🌐 浏览器
+* [数组转换为 HTML 列表](https://hacpai.com/article/1571710869216?r=Vanessa)
+* [底部是否可见](https://hacpai.com/article/1571799008953?r=Vanessa)
 * TODO
 
-### ⏱️ Date
-
-* TODO
-
-### 🎛️ Function
+### ⏱️ 日期
 
 * TODO
 
-### ➗ Math
+### 🎛️ 函数
+
+* TODO
+
+### ➗ 数学
 
 * TODO
 
@@ -398,23 +399,23 @@
 
 * TODO
 
-### 🗃️ Object
+### 🗃️ 对象
 
 * TODO
 
-### 📜 String
+### 📜 字符串
 
 * TODO
 
-### 📃 Type
+### 📃 类型
 
 * TODO
 
-### 🔧 Utility
+### 🔧 工具
 
 * TODO
 
-### ❓ Other
+### ❓ 其他
 
 * TODO
 
