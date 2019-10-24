@@ -3,7 +3,7 @@
 <br>
 <p align="center">
     <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a><br><br>
-明日 30s - JavaScript Code - 浏览器 - 计数器 <br>
+明日 30s - JavaScript Code - 浏览器 - 计数器 <sup>advanced</sup> <br>
 今日 30s - <a href="https://hacpai.com/article/1571882649508?r=Vanessa">拷贝到剪切板</a> <sup>advanced</sup> <br>
 昨日 30s - <a href="https://hacpai.com/article/1571799008953?r=Vanessa">底部是否可见</a> 
 </p>
