@@ -3,7 +3,7 @@
 <br>
 <p align="center">
     <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a><br><br>
-明日 30s - 前端速递 - TypeScript 3.7 RC 新特性 <sup>advanced</sup> <br>
+明日 30s - 前端速递 - TypeScript 3.7 RC 新特性 <br>
 今日 30s - <a href="https://hacpai.com/article/1572016240154?r=Vanessa">计数器</a> <sup>advanced</sup> <br>
 昨日 30s - <a href="https://hacpai.com/article/1571882649508?r=Vanessa">拷贝到剪切板</a> <sup>advanced</sup>
 </p>
