@@ -3,9 +3,9 @@
 <br>
 <p align="center">
     <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a><br><br>
-明日 30s - JavaScript Code - 浏览器 - 计数器 <sup>advanced</sup> <br>
-今日 30s - <a href="https://hacpai.com/article/1571882649508?r=Vanessa">拷贝到剪切板</a> <sup>advanced</sup> <br>
-昨日 30s - <a href="https://hacpai.com/article/1571799008953?r=Vanessa">底部是否可见</a> 
+明日 30s - 前端速递 - TypeScript 3.7 RC 新特性 <sup>advanced</sup> <br>
+今日 30s - <a href="https://hacpai.com/article/1572016240154?r=Vanessa">计数器</a> <sup>advanced</sup> <br>
+昨日 30s - <a href="https://hacpai.com/article/1571882649508?r=Vanessa">拷贝到剪切板</a> <sup>advanced</sup>
 </p>
 
 ----
@@ -382,6 +382,7 @@
 * [数组转换为 HTML 列表](https://hacpai.com/article/1571710869216?r=Vanessa)
 * [底部是否可见](https://hacpai.com/article/1571799008953?r=Vanessa)
 * [拷贝到剪切板](https://hacpai.com/article/1571882649508?r=Vanessa)  <sup>advanced</sup>
+* [计数器](https://hacpai.com/article/1572016240154?r=Vanessa)  <sup>advanced</sup>
 * TODO
 
 ### ⏱️ 日期
