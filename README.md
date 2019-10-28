@@ -11,7 +11,7 @@
 ----
 
 <p align="center">
-    <a href="https://hacpai.com/article/1544793046274?r=Vanessa"><img src="https://raw.githubusercontent.com/30-seconds/30-seconds-of-interviews/master/logo.jpg" alt="每天 30 秒系列之前端面试"></a>
+    <a href="https://hacpai.com/article/1544793046274?r=Vanessa"><img src="https://img.hacpai.com/file/2019/10/logo-4a5fdfa6.jpg" alt="每天 30 秒系列之前端面试"></a>
 </p>
 <h2 align="center">每天 30 秒系列之前端面试</h2>
 <h4 align="center">精选常见面试题，帮助您准备下一次面试</h4>
@@ -207,7 +207,7 @@
 ---
 
 <p align="center">
-<a href="https://hacpai.com/article/1566885644051?r=Vanessa"><img src="https://github.com/30-seconds/30-seconds-of-react/raw/master/logo.png" alt="每天 30 秒系列之 React"></a>
+<a href="https://hacpai.com/article/1566885644051?r=Vanessa"><img src="https://img.hacpai.com/file/2019/10/logo-0b699d21.png" alt="每天 30 秒系列之 React"></a>
 </p>
 <h2 align="center">每天 30 秒系列之 React</h1>
 <h4 align="center">精选有用的 React 片段，帮助你获取最佳实践</h4>
@@ -262,7 +262,7 @@
 ---
 
 <p align="center">
-<a href="https://hacpai.com/article/1553314584340?r=Vanessa"><img src="https://github.com/30-seconds/30-seconds-of-code/raw/master/logo.png" alt="每天 30 秒系列之 JavaScript Code"></a>
+<a href="https://hacpai.com/article/1553314584340?r=Vanessa"><img src="https://img.hacpai.com/file/2019/10/logo1-d9eefb0f.png" alt="每天 30 秒系列之 JavaScript Code"></a>
 </p>
 <h2 align="center">每天 30 秒系列之 JavaScript Code</h1>
 <h4 align="center">精选常见代码集，帮助您提高打码效率</h4>
