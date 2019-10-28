@@ -3,9 +3,9 @@
 <br>
 <p align="center">
     <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a><br><br>
-明日 30s - 前端速递 - TypeScript 3.7 RC 新特性 <br>
-今日 30s - <a href="https://hacpai.com/article/1572016240154?r=Vanessa">计数器</a> <sup>advanced</sup> <br>
-昨日 30s - <a href="https://hacpai.com/article/1571882649508?r=Vanessa">拷贝到剪切板</a> <sup>advanced</sup>
+明日 30s - JavaScript Code - 元素的创建 <br>
+今日 30s - <a href="https://hacpai.com/article/1572251471116?r=Vanessa">TypeScript 3.7 RC 发布，支持可选链等功能特性</a> <br>
+昨日 30s - <a href="https://hacpai.com/article/1572016240154?r=Vanessa">计数器</a> <sup>advanced</sup>
 </p>
 
 ----
@@ -420,6 +420,19 @@
 ### ❓ 其他
 
 * TODO
+
+---
+
+<p align="center">
+<a href="https://hacpai.com/article/1572252373348?r=Vanessa"><img src="https://img.hacpai.com/bing/20191009.jpg?imageView2/1/w/768/h/432/interlace/1/q/100" alt="每天 30 秒之前端资讯"></a>
+</p>
+<h2 align="center">每天 30 秒之前端资讯</h1>
+<h4 align="center">整理前端界的最新资讯，邀您一同探索新世界</h4>
+
+
+### TypeScript
+
+* [TypeScript 3.7 RC 发布，支持可选链等功能特性](https://hacpai.com/article/1572251471116?r=Vanessa)
 
 ---
 ### 鸣谢
