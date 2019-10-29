@@ -3,9 +3,9 @@
 <br>
 <p align="center">
     <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a><br><br>
-明日 30s - JavaScript Code - 元素的创建 <br>
-今日 30s - <a href="https://hacpai.com/article/1572251471116?r=Vanessa">TypeScript 3.7 RC 发布，支持可选链等功能特性</a> <br>
-昨日 30s - <a href="https://hacpai.com/article/1572016240154?r=Vanessa">计数器</a> <sup>advanced</sup>
+明日 30s - JavaScript Code - 创建一个事件中心 <br>
+今日 30s - <a href="https://hacpai.com/article/1572308198856?r=Vanessa">元素的创建</a> <br>
+昨日 30s - <a href="https://hacpai.com/article/1572251471116?r=Vanessa">TypeScript 3.7 RC 发布，支持可选链等功能特性</a>
 </p>
 
 ----
@@ -383,6 +383,7 @@
 * [底部是否可见](https://hacpai.com/article/1571799008953?r=Vanessa)
 * [拷贝到剪切板](https://hacpai.com/article/1571882649508?r=Vanessa)  <sup>advanced</sup>
 * [计数器](https://hacpai.com/article/1572016240154?r=Vanessa)  <sup>advanced</sup>
+* [元素的创建](https://hacpai.com/article/1572308198856?r=Vanessa)  
 * TODO
 
 ### ⏱️ 日期
