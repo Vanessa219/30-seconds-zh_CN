@@ -3,9 +3,9 @@
 <br>
 <p align="center">
     <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a><br><br>
-明日 30s - 前端资讯 - Vue 3 新特性 <br>
-今日 30s - <a href="https://hacpai.com/article/1572445359241?r=Vanessa">创建一个事件中心</a> <br>
-昨日 30s - <a href="https://hacpai.com/article/1572308198856?r=Vanessa">元素的创建</a>
+明日 30s - 浏览器 - 获取当前链接 <br>
+今日 30s - <a href="https://hacpai.com/article/1572486640242?r=Vanessa">Vue 3 中让人激动的新特性</a> <br>
+昨日 30s - <a href="https://hacpai.com/article/1572445359241?r=Vanessa">创建一个事件中心</a>
 </p>
 
 ----
@@ -435,6 +435,10 @@
 ### TypeScript
 
 * [TypeScript 3.7 RC 发布，支持可选链等功能特性](https://hacpai.com/article/1572251471116?r=Vanessa)
+
+### Vue
+
+* [Vue 3 中让人激动的新特性](https://hacpai.com/article/1572486640242?r=Vanessa)
 
 ---
 ### 鸣谢
