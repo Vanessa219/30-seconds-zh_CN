@@ -3,9 +3,9 @@
 <br>
 <p align="center">
     <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a><br><br>
-明日 30s - 浏览器 - 父元素中是否包含子元素 <br>
-今日 30s - <a href="https://hacpai.com/article/1572876582932?r=Vanessa">设备检测</a> <br>
-昨日 30s - <a href="https://hacpai.com/article/1572572694000?r=Vanessa">获取当前链接</a>
+明日 30s - 浏览器 - 元素在屏幕中是否可见 <br>
+今日 30s - <a href="https://hacpai.com/article/1572942939118?r=Vanessa">父元素中是否包含子元素</a> <br>
+昨日 30s - <a href="https://hacpai.com/article/1572876582932?r=Vanessa">设备检测</a>
 </p>
 
 ----
@@ -386,7 +386,8 @@
 * [元素的创建](https://hacpai.com/article/1572308198856?r=Vanessa)  
 * [创建一个事件中心](https://hacpai.com/article/1572445359241?r=Vanessa)  
 * [获取当前链接](https://hacpai.com/article/1572572694000?r=Vanessa)  
-* [设备检测](https://hacpai.com/article/1572876582932?r=Vanessa)  
+* [设备检测](https://hacpai.com/article/1572876582932?r=Vanessa) 
+* [父元素中是否包含子元素](https://hacpai.com/article/1572942939118?r=Vanessa)  
 * TODO
 
 ### ⏱️ 日期
