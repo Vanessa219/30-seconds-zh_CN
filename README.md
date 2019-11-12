@@ -3,9 +3,9 @@
 <br>
 <p align="center">
     <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a><br><br>
-明日 30s - 浏览器 - 获取样式 <br>
-今日 30s - <a href="https://hacpai.com/article/1573442560914?r=Vanessa">获取滚动位置</a><br>
-昨日 30s - <a href="https://hacpai.com/article/1573202349888?r=Vanessa">获取图片地址</a>
+明日 30s - 浏览器 - 是否包含 class <br>
+今日 30s - <a href="https://hacpai.com/article/1573571919593?r=Vanessa">获取样式</a><br>
+昨日 30s - <a href="https://hacpai.com/article/1573442560914?r=Vanessa">获取滚动位置</a>
 </p>
 
 ----
@@ -438,6 +438,7 @@
 * [表单转对象](https://hacpai.com/article/1573096755638?r=Vanessa) 
 * [获取图片地址](https://hacpai.com/article/1573202349888?r=Vanessa) 
 * [获取滚动位置](https://hacpai.com/article/1573442560914?r=Vanessa) 
+* [获取样式](https://hacpai.com/article/1573571919593?r=Vanessa) 
 * TODO
 
 ### ⏱️ 日期
