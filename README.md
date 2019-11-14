@@ -3,9 +3,9 @@
 <br>
 <p align="center">
     <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a><br><br>
-明日 30s - 浏览器 - 使用 SHA-256 创建一个 hash <br>
-今日 30s - <a href="https://hacpai.com/article/1573613289182?r=Vanessa">是否包含 class</a><br>
-昨日 30s - <a href="https://hacpai.com/article/1573571919593?r=Vanessa">获取样式</a>
+明日 30s - 浏览器 - 隐藏元素 <br>
+今日 30s - <a href="https://hacpai.com/article/1573691891987?r=Vanessa">使用 SHA-256 创建一个 hash</a> <sup>advanced</sup> <br>
+昨日 30s - <a href="https://hacpai.com/article/1573613289182?r=Vanessa">是否包含 class</a>
 </p>
 
 ----
@@ -440,6 +440,7 @@
 * [获取滚动位置](https://hacpai.com/article/1573442560914?r=Vanessa) 
 * [获取样式](https://hacpai.com/article/1573571919593?r=Vanessa)
 * [是否包含 class](https://hacpai.com/article/1573613289182?r=Vanessa)
+* [使用 SHA-256 创建一个 hash](https://hacpai.com/article/1573691891987?r=Vanessa)  <sup>advanced</sup>
 * TODO
 
 ### ⏱️ 日期
