@@ -3,9 +3,9 @@
 <br>
 <p align="center">
     <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a><br><br>
-明日 30s - 浏览器 - https 重定向 <br>
-今日 30s - <a href="https://hacpai.com/article/1573805949723?r=Vanessa">隐藏元素</a> <br>
-昨日 30s - <a href="https://hacpai.com/article/1573691891987?r=Vanessa">使用 SHA-256 创建一个 hash</a> <sup>advanced</sup>
+明日 30s - 在元素前插入 HTML <br>
+今日 30s - <a href="https://hacpai.com/article/1574123559923?r=Vanessa">在元素尾部插入 HTML</a> <br>
+昨日 30s - <a href="https://hacpai.com/article/1574121819865?r=Vanessa">https 重定向</a> 
 </p>
 
 ----
@@ -442,6 +442,8 @@
 * [是否包含 class](https://hacpai.com/article/1573613289182?r=Vanessa)
 * [使用 SHA-256 创建一个 hash](https://hacpai.com/article/1573691891987?r=Vanessa)  <sup>advanced</sup>
 * [隐藏元素](https://hacpai.com/article/1573805949723?r=Vanessa) 
+* [https 重定向](https://hacpai.com/article/1574121819865?r=Vanessa) 
+* [在元素尾部插入 HTML](https://hacpai.com/article/1574123559923?r=Vanessa) 
 * TODO
 
 ### ⏱️ 日期
