@@ -3,9 +3,9 @@
 <br>
 <p align="center">
     <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a><br><br>
-明日 30s - 在元素前插入 HTML <br>
-今日 30s - <a href="https://hacpai.com/article/1574123559923?r=Vanessa">在元素尾部插入 HTML</a> <br>
-昨日 30s - <a href="https://hacpai.com/article/1574121819865?r=Vanessa">https 重定向</a> 
+明日 30s - 节点列表转换为数组 <br>
+今日 30s - <a href="https://hacpai.com/article/1574300681705?r=Vanessa">标签页是否正在被浏览</a> <br>
+昨日 30s - <a href="https://hacpai.com/article/1574299869568?r=Vanessa">在元素前插入 HTML</a> 
 </p>
 
 ----
@@ -444,6 +444,8 @@
 * [隐藏元素](https://hacpai.com/article/1573805949723?r=Vanessa) 
 * [https 重定向](https://hacpai.com/article/1574121819865?r=Vanessa) 
 * [在元素尾部插入 HTML](https://hacpai.com/article/1574123559923?r=Vanessa) 
+* [在元素前插入 HTML](https://hacpai.com/article/1574299869568?r=Vanessa) 
+* [标签页是否正在被浏览](https://hacpai.com/article/1574300681705?r=Vanessa) 
 * TODO
 
 ### ⏱️ 日期
