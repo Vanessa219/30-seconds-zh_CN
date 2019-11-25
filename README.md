@@ -3,9 +3,10 @@
 <br>
 <p align="center">
     <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a><br><br>
-明日 30s - 监听 DOM 的修改 <sup>advanced</sup> <br>
-今日 30s - <a href="https://hacpai.com/article/1574390799342?r=Vanessa">节点列表转换为数组</a> <br>
-昨日 30s - <a href="https://hacpai.com/article/1574300681705?r=Vanessa">标签页是否正在被浏览 HTML</a> 
+后日 30s - 监听 DOM 的修改 <sup>advanced</sup> <br>
+明日 30s - 在浏览器中读取文件 <br>
+今日 30s - <a href="https://hacpai.com/article/1574653761336?r=Vanessa">:is/:matches/:any 选择器</a> <br>
+昨日 30s - <a href="https://hacpai.com/article/1574390799342?r=Vanessa">节点列表转换为数组</a> 
 </p>
 
 ----
@@ -223,6 +224,7 @@
 * [系统字体栈](https://hacpai.com/article/1564836010214?r=Vanessa)
 * [三角形](https://hacpai.com/article/1564898822590?r=Vanessa)
 * [斑马条纹列表](https://hacpai.com/article/1564986603713?r=Vanessa)
+* [:is/:matches/:any 选择器](https://hacpai.com/article/1574653761336?r=Vanessa)
 
 ### 动画
 
