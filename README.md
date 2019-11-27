@@ -3,10 +3,9 @@
 <br>
 <p align="center">
     <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a><br><br>
-后日 30s - 监听 DOM 的修改 <sup>advanced</sup> <br>
 明日 30s - 在浏览器中读取文件 <br>
-今日 30s - <a href="https://hacpai.com/article/1574653761336?r=Vanessa">:is/:matches/:any 选择器</a> <br>
-昨日 30s - <a href="https://hacpai.com/article/1574390799342?r=Vanessa">节点列表转换为数组</a> 
+今日 30s - <a href="https://hacpai.com/article/1574865785599?r=Vanessa">移除监听事件</a> <br>
+昨日 30s - <a href="https://hacpai.com/article/1574864945701?r=Vanessa">监听 DOM 的修改</a> <sup>advanced</sup>
 </p>
 
 ----
@@ -449,6 +448,8 @@
 * [在元素前插入 HTML](https://hacpai.com/article/1574299869568?r=Vanessa) 
 * [标签页是否正在被浏览](https://hacpai.com/article/1574300681705?r=Vanessa) 
 * [节点列表转换为数组](https://hacpai.com/article/1574390799342?r=Vanessa) 
+* [监听 DOM 的修改](https://hacpai.com/article/1574864945701?r=Vanessa) <sup>advanced</sup>
+* [移除监听事件](https://hacpai.com/article/1574865785599?r=Vanessa) 
 * TODO
 
 ### ⏱️ 日期
