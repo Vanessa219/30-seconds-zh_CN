@@ -2,7 +2,7 @@
 <h4 align="center">前端精选问题集，每天仅需 30 秒</h4>
 <br>
 <p align="center">
-    <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a><br><br>
+    <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/Vanessa219/30-seconds-zh_CN.svg"></a><br><br>
 明日 30s - 在浏览器中读取文件 <br>
 今日 30s - <a href="https://hacpai.com/article/1574954286430?r=Vanessa">添加监听事件</a> <br>
 昨日 30s - <a href="https://hacpai.com/article/1574865785599?r=Vanessa">移除监听事件</a> 
