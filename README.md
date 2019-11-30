@@ -3,9 +3,10 @@
 <br>
 <p align="center">
     <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/Vanessa219/30-seconds-zh_CN.svg"></a><br><br>
-明日 30s - 在浏览器中读取文件 <br>
-今日 30s - <a href="https://hacpai.com/article/1574954286430?r=Vanessa">添加监听事件</a> <br>
-昨日 30s - <a href="https://hacpai.com/article/1574865785599?r=Vanessa">移除监听事件</a> 
+TODO 30s - 在浏览器中读取文件 <br>
+明日 30s - 获取浏览器必须的前缀 <br>
+今日 30s - <a href="https://hacpai.com/article/1575077232175?r=Vanessa">监听用户输入方式的改变</a> <sup>advanced</sup> <br>
+昨日 30s - <a href="https://hacpai.com/article/1574954286430?r=Vanessa">添加监听事件</a> 
 </p>
 
 ----
@@ -451,6 +452,7 @@
 * [监听 DOM 的修改](https://hacpai.com/article/1574864945701?r=Vanessa) <sup>advanced</sup>
 * [移除监听事件](https://hacpai.com/article/1574865785599?r=Vanessa) 
 * [添加监听事件](https://hacpai.com/article/1574954286430?r=Vanessa) 
+* [监听用户输入方式的改变](https://hacpai.com/article/1575077232175?r=Vanessa) <sup>advanced</sup>
 * TODO
 
 ### ⏱️ 日期
