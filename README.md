@@ -4,9 +4,9 @@
 <p align="center">
     <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/Vanessa219/30-seconds-zh_CN.svg"></a><br><br>
 TODO 30s - 在浏览器中读取文件 <br>
-明日 30s - 设置样式 <br>
-今日 30s - <a href="https://hacpai.com/article/1575872317594?r=Vanessa">序列化表单</a> <sup>advanced</sup> <br>
-昨日 30s - <a href="https://hacpai.com/article/1575871657327?r=Vanessa">平滑的滚动到顶部</a> 
+明日 30s - 平滑滚动到可见区域<br>
+今日 30s - <a href="https://hacpai.com/article/1576027874989?r=Vanessa">设置样式</a> <br>
+昨日 30s - <a href="https://hacpai.com/article/1576033575915?r=Vanessa">显示元素</a> 
 </p>
 
 ----
@@ -459,6 +459,8 @@ TODO 30s - 在浏览器中读取文件 <br>
 * [异步运行一个不阻塞 UI 的函数](https://hacpai.com/article/1575540884547?r=Vanessa) <sup>advanced</sup>
 * [平滑的滚动到顶部](https://hacpai.com/article/1575871657327?r=Vanessa)
 * [序列化表单](https://hacpai.com/article/1575872317594?r=Vanessa)
+* [设置样式](https://hacpai.com/article/1576027874989?r=Vanessa)
+* [显示元素](https://hacpai.com/article/1576033575915?r=Vanessa)
 * TODO
 
 ### ⏱️ 日期
