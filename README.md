@@ -5,8 +5,8 @@
     <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/Vanessa219/30-seconds-zh_CN.svg"></a><br><br>
 TODO 30s - 在浏览器中读取文件 <br>
 明日 30s - 日期格式化<br>
-今日 30s - <a href="https://hacpai.com/article/1576659272282?r=Vanessa">获取一年中的天数</a> <br>
-昨日 30s - <a href="https://hacpai.com/article/1576657593314?r=Vanessa">生成 UUID</a> 
+今日 30s - <a href="https://hacpai.com/article/1576751605516?r=Vanessa">24 小时制转换为 12 小时制</a> <br>
+昨日 30s - <a href="https://hacpai.com/article/1576659272282?r=Vanessa">获取一年中的天数</a> 
 </p>
 
 ----
@@ -469,6 +469,7 @@ TODO 30s - 在浏览器中读取文件 <br>
 ### ⏱️ 日期
 
 * [获取一年中的天数](https://hacpai.com/article/1576659272282?r=Vanessa)
+* [24 小时制转换为 12 小时制](https://hacpai.com/article/1576751605516?r=Vanessa)
 * TODO
 
 ### 🎛️ 函数
