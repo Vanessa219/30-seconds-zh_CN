@@ -3,7 +3,3 @@
 最终转到 https://hacpai.com/article/1553314676872?r=Vanessa 
 
 喜欢该系列文章的同学们可以前往收藏 ⭐️
-
-[test](#)
-
-## .Net Core3.1
